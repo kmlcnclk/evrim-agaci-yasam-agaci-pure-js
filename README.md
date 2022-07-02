@@ -1,4 +1,4 @@
-# Evrim Agacı Yasam Agacı Clone (Pure JS)
+# Evrim Ağacı Yasam Ağacı Clone (Pure JS)
 
 ### Firstly make it these
 
