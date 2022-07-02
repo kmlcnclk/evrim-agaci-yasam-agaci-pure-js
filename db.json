@@ -1,0 +1,2289 @@
+{
+  "yasamAgaci": {
+    "name": "Yaşam Ağacı",
+    "taxonomy_name_tr": "",
+    "taxonomy_name_la": "Yaşam Ağacı",
+    "children": [
+      {
+        "name": "Neomura",
+        "taxonomy_name_tr": "",
+        "taxonomy_name_la": "Neomura",
+        "id": "7228",
+        "url": "https://evrimagaci.org/neomura-7228",
+        "children": [
+          {
+            "name": "Ökaryotlar (Eukaryota)",
+            "taxonomy_name_tr": "Ökaryotlar",
+            "taxonomy_name_la": "Eukaryota",
+            "id": "7230",
+            "url": "https://evrimagaci.org/okaryotlar-eukaryota-7230",
+            "children": [
+              {
+                "name": "Hayvanlar (Animalia)",
+                "taxonomy_name_tr": "Hayvanlar",
+                "taxonomy_name_la": "Animalia",
+                "id": "7237",
+                "url": "https://evrimagaci.org/hayvanlar-animalia-7237",
+                "children": [
+                  {
+                    "name": "Gerçek Dokulular (Eumetazoa)",
+                    "taxonomy_name_tr": "Gerçek Dokulular",
+                    "taxonomy_name_la": "Eumetazoa",
+                    "id": "11330",
+                    "url": "https://evrimagaci.org/gercek-dokulular-eumetazoa-11330",
+                    "children": [
+                      {
+                        "name": "Parahoxlu Hayvanlar (Parahoxozoa)",
+                        "taxonomy_name_tr": "Parahoxlu Hayvanlar",
+                        "taxonomy_name_la": "Parahoxozoa",
+                        "id": "11332",
+                        "url": "https://evrimagaci.org/parahoxlu-hayvanlar-parahoxozoa-11332",
+                        "children": [
+                          {
+                            "name": "İkincil Ağızlılar (Deuterostomia)",
+                            "taxonomy_name_tr": "İkincil Ağızlılar",
+                            "taxonomy_name_la": "Deuterostomia",
+                            "id": "7299",
+                            "url": "https://evrimagaci.org/ikincil-agizlilar-deuterostomia-7299",
+                            "children": [
+                              {
+                                "name": "Kordalılar (Chordata)",
+                                "taxonomy_name_tr": "Kordalılar",
+                                "taxonomy_name_la": "Chordata",
+                                "id": "7300",
+                                "url": "https://evrimagaci.org/kordalilar-chordata-7300",
+                                "children": [
+                                  {
+                                    "name": "Omurgalılar (Vertebrata)",
+                                    "taxonomy_name_tr": "Omurgalılar",
+                                    "taxonomy_name_la": "Vertebrata",
+                                    "id": "7238",
+                                    "url": "https://evrimagaci.org/omurgalilar-vertebrata-7238",
+                                    "children": [
+                                      {
+                                        "name": "Kuşlar (Aves)",
+                                        "taxonomy_name_tr": "Kuşlar",
+                                        "taxonomy_name_la": "Aves",
+                                        "id": "7252",
+                                        "url": "https://evrimagaci.org/kuslar-aves-7252",
+                                        "children": [
+                                          {
+                                            "name": "Albatroslar (Diomedeidae)",
+                                            "taxonomy_name_tr": "Albatroslar",
+                                            "taxonomy_name_la": "Diomedeidae",
+                                            "id": "2226",
+                                            "url": "https://evrimagaci.org/albatroslar-diomedeidae-2226"
+                                          },
+                                          {
+                                            "name": "Tepeli devekuşu (Casuarius)",
+                                            "taxonomy_name_tr": "Tepeli devekuşu",
+                                            "taxonomy_name_la": "Casuarius",
+                                            "id": "3424",
+                                            "url": "https://evrimagaci.org/tepeli-devekusu-casuarius-3424"
+                                          },
+                                          {
+                                            "name": "Ak karınlı ebabil (Tachymarptis melba)",
+                                            "taxonomy_name_tr": "Ak karınlı ebabil",
+                                            "taxonomy_name_la": "Tachymarptis melba",
+                                            "id": "5367",
+                                            "url": "https://evrimagaci.org/ak-karinli-ebabil-tachymarptis-melba-5367"
+                                          },
+                                          {
+                                            "name": "Yalıçapkını (Alcedo atthis)",
+                                            "taxonomy_name_tr": "Yalıçapkını",
+                                            "taxonomy_name_la": "Alcedo atthis",
+                                            "id": "5378",
+                                            "url": "https://evrimagaci.org/yalicapkini-alcedo-atthis-5378"
+                                          },
+                                          {
+                                            "name": "Kukumav (Athene noctua)",
+                                            "taxonomy_name_tr": "Kukumav",
+                                            "taxonomy_name_la": "Athene noctua",
+                                            "id": "5380",
+                                            "url": "https://evrimagaci.org/kukumav-athene-noctua-5380"
+                                          },
+                                          {
+                                            "name": "Bahri (Podiceps cristatus)",
+                                            "taxonomy_name_tr": "Bahri",
+                                            "taxonomy_name_la": "Podiceps cristatus",
+                                            "id": "5384",
+                                            "url": "https://evrimagaci.org/bahri-podiceps-cristatus-5384"
+                                          },
+                                          {
+                                            "name": "Büyük baştankara (Parus major)",
+                                            "taxonomy_name_tr": "Büyük baştankara",
+                                            "taxonomy_name_la": "Parus major",
+                                            "id": "5396",
+                                            "url": "https://evrimagaci.org/buyuk-bastankara-parus-major-5396"
+                                          },
+                                          {
+                                            "name": "Gökdoğan (Falco peregrinus)",
+                                            "taxonomy_name_tr": "Gökdoğan",
+                                            "taxonomy_name_la": "Falco peregrinus",
+                                            "id": "5400",
+                                            "url": "https://evrimagaci.org/gokdogan-falco-peregrinus-5400"
+                                          },
+                                          {
+                                            "name": "Kızıl sırtlı örümcek kuşu (Lanius collurio)",
+                                            "taxonomy_name_tr": "Kızıl sırtlı örümcek kuşu",
+                                            "taxonomy_name_la": "Lanius collurio",
+                                            "id": "5408",
+                                            "url": "https://evrimagaci.org/kizil-sirtli-orumcek-kusu-lanius-collurio-5408"
+                                          },
+                                          {
+                                            "name": "Leylek (Ciconia ciconia)",
+                                            "taxonomy_name_tr": "Leylek",
+                                            "taxonomy_name_la": "Ciconia ciconia",
+                                            "id": "7213",
+                                            "url": "https://evrimagaci.org/leylek-ciconia-ciconia-7213"
+                                          },
+                                          {
+                                            "name": "Büyük kamışçın (Acrocephalus arundinaceus)",
+                                            "taxonomy_name_tr": "Büyük kamışçın",
+                                            "taxonomy_name_la": "Acrocephalus arundinaceus",
+                                            "id": "7216",
+                                            "url": "https://evrimagaci.org/buyuk-kamiscin-acrocephalus-arundinaceus-7216"
+                                          },
+                                          {
+                                            "name": "Dağ kuyruksallayanı (Motacilla cinerea)",
+                                            "taxonomy_name_tr": "Dağ kuyruksallayanı",
+                                            "taxonomy_name_la": "Motacilla cinerea",
+                                            "id": "7246",
+                                            "url": "https://evrimagaci.org/dag-kuyruksallayani-motacilla-cinerea-7246"
+                                          },
+                                          {
+                                            "name": "İbibik (Upupa epops)",
+                                            "taxonomy_name_tr": "İbibik",
+                                            "taxonomy_name_la": "Upupa epops",
+                                            "id": "7283",
+                                            "url": "https://evrimagaci.org/ibibik-upupa-epops-7283"
+                                          },
+                                          {
+                                            "name": "Kır kırlangıcı (Hirundo rustica)",
+                                            "taxonomy_name_tr": "Kır kırlangıcı",
+                                            "taxonomy_name_la": "Hirundo rustica",
+                                            "id": "7284",
+                                            "url": "https://evrimagaci.org/kir-kirlangici-hirundo-rustica-7284"
+                                          },
+                                          {
+                                            "name": "Ak kuyruksallayan (Motacilla alba)",
+                                            "taxonomy_name_tr": "Ak kuyruksallayan",
+                                            "taxonomy_name_la": "Motacilla alba",
+                                            "id": "7287",
+                                            "url": "https://evrimagaci.org/ak-kuyruksallayan-motacilla-alba-7287"
+                                          },
+                                          {
+                                            "name": "Uzunbacak (Himantopus himantopus)",
+                                            "taxonomy_name_tr": "Uzunbacak",
+                                            "taxonomy_name_la": "Himantopus himantopus",
+                                            "id": "7329",
+                                            "url": "https://evrimagaci.org/uzunbacak-himantopus-himantopus-7329"
+                                          },
+                                          {
+                                            "name": "Kargagiller (Corvidae)",
+                                            "taxonomy_name_tr": "Kargagiller",
+                                            "taxonomy_name_la": "Corvidae",
+                                            "id": "7333",
+                                            "url": "https://evrimagaci.org/kargagiller-corvidae-7333",
+                                            "children": [
+                                              {
+                                                "name": "Küçük karga (Coloeus monedula)",
+                                                "taxonomy_name_tr": "Küçük karga",
+                                                "taxonomy_name_la": "Coloeus monedula",
+                                                "id": "5353",
+                                                "url": "https://evrimagaci.org/kucuk-karga-coloeus-monedula-5353"
+                                              },
+                                              {
+                                                "name": "Leş kargası (Corvus cornix)",
+                                                "taxonomy_name_tr": "Leş kargası",
+                                                "taxonomy_name_la": "Corvus cornix",
+                                                "id": "5354",
+                                                "url": "https://evrimagaci.org/les-kargasi-corvus-cornix-5354"
+                                              },
+                                              {
+                                                "name": "Saksağan (Pica pica)",
+                                                "taxonomy_name_tr": "Saksağan",
+                                                "taxonomy_name_la": "Pica pica",
+                                                "id": "5356",
+                                                "url": "https://evrimagaci.org/saksagan-pica-pica-5356"
+                                              },
+                                              {
+                                                "name": "Alakarga (Garrulus glandarius)",
+                                                "taxonomy_name_tr": "Alakarga",
+                                                "taxonomy_name_la": "Garrulus glandarius",
+                                                "id": "5402",
+                                                "url": "https://evrimagaci.org/alakarga-garrulus-glandarius-5402"
+                                              },
+                                              {
+                                                "name": "Avrupa leş kargası (Corvus corone)",
+                                                "taxonomy_name_tr": "Avrupa leş kargası",
+                                                "taxonomy_name_la": "Corvus corone",
+                                                "id": "8783",
+                                                "url": "https://evrimagaci.org/avrupa-les-kargasi-corvus-corone-8783"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Atmacagiller (Accipitridae)",
+                                            "taxonomy_name_tr": "Atmacagiller",
+                                            "taxonomy_name_la": "Accipitridae",
+                                            "id": "7334",
+                                            "url": "https://evrimagaci.org/atmacagiller-accipitridae-7334",
+                                            "children": [
+                                              {
+                                                "name": "Saz delicesi (Circus aeruginosus)",
+                                                "taxonomy_name_tr": "Saz delicesi",
+                                                "taxonomy_name_la": "Circus aeruginosus",
+                                                "id": "5385",
+                                                "url": "https://evrimagaci.org/saz-delicesi-circus-aeruginosus-5385"
+                                              },
+                                              {
+                                                "name": "Kızıl şahin (Buteo rufinus)",
+                                                "taxonomy_name_tr": "Kızıl şahin",
+                                                "taxonomy_name_la": "Buteo rufinus",
+                                                "id": "7215",
+                                                "url": "https://evrimagaci.org/kizil-sahin-buteo-rufinus-7215"
+                                              },
+                                              {
+                                                "name": "Kara akbaba (Aegypius monachus)",
+                                                "taxonomy_name_tr": "Kara akbaba",
+                                                "taxonomy_name_la": "Aegypius monachus",
+                                                "id": "7217",
+                                                "url": "https://evrimagaci.org/kara-akbaba-aegypius-monachus-7217"
+                                              },
+                                              {
+                                                "name": "Şah kartal (Aquila heliaca)",
+                                                "taxonomy_name_tr": "Şah kartal",
+                                                "taxonomy_name_la": "Aquila heliaca",
+                                                "id": "7218",
+                                                "url": "https://evrimagaci.org/sah-kartal-aquila-heliaca-7218"
+                                              },
+                                              {
+                                                "name": "Yılan kartalı (Circaetus gallicus)",
+                                                "taxonomy_name_tr": "Yılan kartalı",
+                                                "taxonomy_name_la": "Circaetus gallicus",
+                                                "id": "7376",
+                                                "url": "https://evrimagaci.org/yilan-kartali-circaetus-gallicus-7376"
+                                              },
+                                              {
+                                                "name": "Küçük orman kartalı (Clanga pomarina)",
+                                                "taxonomy_name_tr": "Küçük orman kartalı",
+                                                "taxonomy_name_la": "Clanga pomarina",
+                                                "id": "8047",
+                                                "url": "https://evrimagaci.org/kucuk-orman-kartali-clanga-pomarina-8047"
+                                              },
+                                              {
+                                                "name": "Kızıl kuyruklu şahin (Buteo jamaicensis)",
+                                                "taxonomy_name_tr": "Kızıl kuyruklu şahin",
+                                                "taxonomy_name_la": "Buteo jamaicensis",
+                                                "id": "8523",
+                                                "url": "https://evrimagaci.org/kizil-kuyruklu-sahin-buteo-jamaicensis-8523"
+                                              },
+                                              {
+                                                "name": "Atmaca (Accipiter nisus)",
+                                                "taxonomy_name_tr": "Atmaca",
+                                                "taxonomy_name_la": "Accipiter nisus",
+                                                "id": "9194",
+                                                "url": "https://evrimagaci.org/atmaca-accipiter-nisus-9194"
+                                              },
+                                              {
+                                                "name": "Küçük akbaba (Neophron percnopterus)",
+                                                "taxonomy_name_tr": "Küçük akbaba",
+                                                "taxonomy_name_la": "Neophron percnopterus",
+                                                "id": "10496",
+                                                "url": "https://evrimagaci.org/kucuk-akbaba-neophron-percnopterus-10496"
+                                              },
+                                              {
+                                                "name": "Kızıl akbaba (Gyps fulvus)",
+                                                "taxonomy_name_tr": "Kızıl akbaba",
+                                                "taxonomy_name_la": "Gyps fulvus",
+                                                "id": "10528",
+                                                "url": "https://evrimagaci.org/kizil-akbaba-gyps-fulvus-10528"
+                                              },
+                                              {
+                                                "name": "Gypinae",
+                                                "taxonomy_name_tr": "",
+                                                "taxonomy_name_la": "Gypinae",
+                                                "id": "10559",
+                                                "url": "https://evrimagaci.org/gypinae-10559",
+                                                "children": [
+                                                  {
+                                                    "name": "Aegypius",
+                                                    "taxonomy_name_tr": "",
+                                                    "taxonomy_name_la": "Aegypius",
+                                                    "id": "10983",
+                                                    "url": "https://evrimagaci.org/aegypius-10983"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Gypaetinae",
+                                                "taxonomy_name_tr": "",
+                                                "taxonomy_name_la": "Gypaetinae",
+                                                "id": "10566",
+                                                "url": "https://evrimagaci.org/gypaetinae-10566",
+                                                "children": [
+                                                  {
+                                                    "name": "Gypaetus",
+                                                    "taxonomy_name_tr": "",
+                                                    "taxonomy_name_la": "Gypaetus",
+                                                    "id": "10568",
+                                                    "url": "https://evrimagaci.org/gypaetus-10568",
+                                                    "children": [
+                                                      {
+                                                        "name": "Sakallı akbaba (Gypaetus barbatus)",
+                                                        "taxonomy_name_tr": "Sakallı akbaba",
+                                                        "taxonomy_name_la": "Gypaetus barbatus",
+                                                        "id": "10547",
+                                                        "url": "https://evrimagaci.org/sakalli-akbaba-gypaetus-barbatus-10547"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Sinekkapangiller (Muscicapidae)",
+                                            "taxonomy_name_tr": "Sinekkapangiller",
+                                            "taxonomy_name_la": "Muscicapidae",
+                                            "id": "7335",
+                                            "url": "https://evrimagaci.org/sinekkapangiller-muscicapidae-7335",
+                                            "children": [
+                                              {
+                                                "name": "Taşkuşu (Saxicola rubicola)",
+                                                "taxonomy_name_tr": "Taşkuşu",
+                                                "taxonomy_name_la": "Saxicola rubicola",
+                                                "id": "7212",
+                                                "url": "https://evrimagaci.org/taskusu-saxicola-rubicola-7212"
+                                              },
+                                              {
+                                                "name": "Kızılgerdan (Erithacus rubecula)",
+                                                "taxonomy_name_tr": "Kızılgerdan",
+                                                "taxonomy_name_la": "Erithacus rubecula",
+                                                "id": "7292",
+                                                "url": "https://evrimagaci.org/kizilgerdan-erithacus-rubecula-7292"
+                                              },
+                                              {
+                                                "name": "Kara kızılkuyruk (Phoenicurus ochruros)",
+                                                "taxonomy_name_tr": "Kara kızılkuyruk",
+                                                "taxonomy_name_la": "Phoenicurus ochruros",
+                                                "id": "9514",
+                                                "url": "https://evrimagaci.org/kara-kizilkuyruk-phoenicurus-ochruros-9514"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Martıgiller (Laridae)",
+                                            "taxonomy_name_tr": "Martıgiller",
+                                            "taxonomy_name_la": "Laridae",
+                                            "id": "7337",
+                                            "url": "https://evrimagaci.org/martigiller-laridae-7337",
+                                            "children": [
+                                              {
+                                                "name": "Karabaş martı (Chroicocephalus ridibundus)",
+                                                "taxonomy_name_tr": "Karabaş martı",
+                                                "taxonomy_name_la": "Chroicocephalus ridibundus",
+                                                "id": "5264",
+                                                "url": "https://evrimagaci.org/karabas-marti-chroicocephalus-ridibundus-5264"
+                                              },
+                                              {
+                                                "name": "Karagagalı sumru (Thalasseus sandvicensis)",
+                                                "taxonomy_name_tr": "Karagagalı sumru",
+                                                "taxonomy_name_la": "Thalasseus sandvicensis",
+                                                "id": "5381",
+                                                "url": "https://evrimagaci.org/karagagali-sumru-thalasseus-sandvicensis-5381"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Yeşilbaş (Anas platyrhynchos)",
+                                            "taxonomy_name_tr": "Yeşilbaş",
+                                            "taxonomy_name_la": "Anas platyrhynchos",
+                                            "id": "7365",
+                                            "url": "https://evrimagaci.org/yesilbas-anas-platyrhynchos-7365"
+                                          },
+                                          {
+                                            "name": "Kerkenez (Falco tinnunculus)",
+                                            "taxonomy_name_tr": "Kerkenez",
+                                            "taxonomy_name_la": "Falco tinnunculus",
+                                            "id": "7442",
+                                            "url": "https://evrimagaci.org/kerkenez-falco-tinnunculus-7442"
+                                          },
+                                          {
+                                            "name": "Mavi baştankara (Cyanistes caeruleus)",
+                                            "taxonomy_name_tr": "Mavi baştankara",
+                                            "taxonomy_name_la": "Cyanistes caeruleus",
+                                            "id": "7625",
+                                            "url": "https://evrimagaci.org/mavi-bastankara-cyanistes-caeruleus-7625"
+                                          },
+                                          {
+                                            "name": "Yeşil papağan (Psittacula krameri)",
+                                            "taxonomy_name_tr": "Yeşil papağan",
+                                            "taxonomy_name_la": "Psittacula krameri",
+                                            "id": "7673",
+                                            "url": "https://evrimagaci.org/yesil-papagan-psittacula-krameri-7673"
+                                          },
+                                          {
+                                            "name": "Çizgili baykuş (Strix varia)",
+                                            "taxonomy_name_tr": "Çizgili baykuş",
+                                            "taxonomy_name_la": "Strix varia",
+                                            "id": "7919",
+                                            "url": "https://evrimagaci.org/cizgili-baykus-strix-varia-7919"
+                                          },
+                                          {
+                                            "name": "Karabataklar (Phalacrocorax)",
+                                            "taxonomy_name_tr": "Karabataklar",
+                                            "taxonomy_name_la": "Phalacrocorax",
+                                            "id": "8227",
+                                            "url": "https://evrimagaci.org/karabataklar-phalacrocorax-8227",
+                                            "children": [
+                                              {
+                                                "name": "Tepeli karabatak (Phalacrocorax aristotelis)",
+                                                "taxonomy_name_tr": "Tepeli karabatak",
+                                                "taxonomy_name_la": "Phalacrocorax aristotelis",
+                                                "id": "5268",
+                                                "url": "https://evrimagaci.org/tepeli-karabatak-phalacrocorax-aristotelis-5268"
+                                              },
+                                              {
+                                                "name": "Karabatak (Phalacrocorax carbo)",
+                                                "taxonomy_name_tr": "Karabatak",
+                                                "taxonomy_name_la": "Phalacrocorax carbo",
+                                                "id": "8228",
+                                                "url": "https://evrimagaci.org/karabatak-phalacrocorax-carbo-8228"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Peçeli baykuş (Tyto alba)",
+                                            "taxonomy_name_tr": "Peçeli baykuş",
+                                            "taxonomy_name_la": "Tyto alba",
+                                            "id": "8429",
+                                            "url": "https://evrimagaci.org/peceli-baykus-tyto-alba-8429"
+                                          },
+                                          {
+                                            "name": "Küçük sinekkapan (Ficedula parva)",
+                                            "taxonomy_name_tr": "Küçük sinekkapan",
+                                            "taxonomy_name_la": "Ficedula parva",
+                                            "id": "8667",
+                                            "url": "https://evrimagaci.org/kucuk-sinekkapan-ficedula-parva-8667"
+                                          },
+                                          {
+                                            "name": "Karatavukgiller (Turdidae)",
+                                            "taxonomy_name_tr": "Karatavukgiller",
+                                            "taxonomy_name_la": "Turdidae",
+                                            "id": "8742",
+                                            "url": "https://evrimagaci.org/karatavukgiller-turdidae-8742",
+                                            "children": [
+                                              {
+                                                "name": "Karatavuk (Turdus merula)",
+                                                "taxonomy_name_tr": "Karatavuk",
+                                                "taxonomy_name_la": "Turdus merula",
+                                                "id": "7297",
+                                                "url": "https://evrimagaci.org/karatavuk-turdus-merula-7297"
+                                              },
+                                              {
+                                                "name": "Öter ardıç (Turdus philomelos)",
+                                                "taxonomy_name_tr": "Öter ardıç",
+                                                "taxonomy_name_la": "Turdus philomelos",
+                                                "id": "8747",
+                                                "url": "https://evrimagaci.org/oter-ardic-turdus-philomelos-8747"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Balıkçılgiller (Ardeidae)",
+                                            "taxonomy_name_tr": "Balıkçılgiller",
+                                            "taxonomy_name_la": "Ardeidae",
+                                            "id": "8760",
+                                            "url": "https://evrimagaci.org/balikcilgiller-ardeidae-8760",
+                                            "children": [
+                                              {
+                                                "name": "Erguvani balıkçıl (Ardea purpurea)",
+                                                "taxonomy_name_tr": "Erguvani balıkçıl",
+                                                "taxonomy_name_la": "Ardea purpurea",
+                                                "id": "5379",
+                                                "url": "https://evrimagaci.org/erguvani-balikcil-ardea-purpurea-5379"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Anna sinekkuşu (Calypte anna)",
+                                            "taxonomy_name_tr": "Anna sinekkuşu",
+                                            "taxonomy_name_la": "Calypte anna",
+                                            "id": "8785",
+                                            "url": "https://evrimagaci.org/anna-sinekkusu-calypte-anna-8785"
+                                          },
+                                          {
+                                            "name": "Sarıasma (Oriolus oriolus)",
+                                            "taxonomy_name_tr": "Sarıasma",
+                                            "taxonomy_name_la": "Oriolus oriolus",
+                                            "id": "9074",
+                                            "url": "https://evrimagaci.org/sariasma-oriolus-oriolus-9074"
+                                          },
+                                          {
+                                            "name": "Altın yağmurcun (Pluvialis apricaria)",
+                                            "taxonomy_name_tr": "Altın yağmurcun",
+                                            "taxonomy_name_la": "Pluvialis apricaria",
+                                            "id": "9204",
+                                            "url": "https://evrimagaci.org/altin-yagmurcun-pluvialis-apricaria-9204"
+                                          },
+                                          {
+                                            "name": "Guguk kuşu (Cuculus canorus)",
+                                            "taxonomy_name_tr": "Guguk kuşu",
+                                            "taxonomy_name_la": "Cuculus canorus",
+                                            "id": "9323",
+                                            "url": "https://evrimagaci.org/guguk-kusu-cuculus-canorus-9323"
+                                          },
+                                          {
+                                            "name": "Sürmeli çalıkuşu (Regulus ignicapilla)",
+                                            "taxonomy_name_tr": "Sürmeli çalıkuşu",
+                                            "taxonomy_name_la": "Regulus ignicapilla",
+                                            "id": "9596",
+                                            "url": "https://evrimagaci.org/surmeli-calikusu-regulus-ignicapilla-9596"
+                                          },
+                                          {
+                                            "name": "Çulluk (Scolopax rusticola)",
+                                            "taxonomy_name_tr": "Çulluk",
+                                            "taxonomy_name_la": "Scolopax rusticola",
+                                            "id": "9819",
+                                            "url": "https://evrimagaci.org/culluk-scolopax-rusticola-9819"
+                                          },
+                                          {
+                                            "name": "Toy (Otis tarda)",
+                                            "taxonomy_name_tr": "Toy",
+                                            "taxonomy_name_la": "Otis tarda",
+                                            "id": "10841",
+                                            "url": "https://evrimagaci.org/toy-otis-tarda-10841"
+                                          },
+                                          {
+                                            "name": "Orman Alaca Ağaçkakan (Dendrocopos major)",
+                                            "taxonomy_name_tr": "Orman Alaca Ağaçkakan",
+                                            "taxonomy_name_la": "Dendrocopos major",
+                                            "id": "11160",
+                                            "url": "https://evrimagaci.org/orman-alaca-agackakan-dendrocopos-major-11160"
+                                          },
+                                          {
+                                            "name": "Tavuk (Gallus gallus domesticus)",
+                                            "taxonomy_name_tr": "Tavuk",
+                                            "taxonomy_name_la": "Gallus gallus domesticus",
+                                            "id": "11417",
+                                            "url": "https://evrimagaci.org/tavuk-gallus-gallus-domesticus-11417"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Sürüngenler (Reptilia)",
+                                        "taxonomy_name_tr": "Sürüngenler",
+                                        "taxonomy_name_la": "Reptilia",
+                                        "id": "7253",
+                                        "url": "https://evrimagaci.org/surungenler-reptilia-7253",
+                                        "children": [
+                                          {
+                                            "name": "Deri Sırtlı Kaplumbağa (Dermochelys coriacea)",
+                                            "taxonomy_name_tr": "Deri Sırtlı Kaplumbağa",
+                                            "taxonomy_name_la": "Dermochelys coriacea",
+                                            "id": "2471",
+                                            "url": "https://evrimagaci.org/deri-sirtli-kaplumbaga-dermochelys-coriacea-2471"
+                                          },
+                                          {
+                                            "name": "Danetlli Monitör (Varanus varius)",
+                                            "taxonomy_name_tr": "Danetlli Monitör",
+                                            "taxonomy_name_la": "Varanus varius",
+                                            "id": "3245",
+                                            "url": "https://evrimagaci.org/danetlli-monitor-varanus-varius-3245"
+                                          },
+                                          {
+                                            "name": "Uludağ kertenkelesi (Darevskia bithynica tristis)",
+                                            "taxonomy_name_tr": "Uludağ kertenkelesi",
+                                            "taxonomy_name_la": "Darevskia bithynica tristis",
+                                            "id": "5244",
+                                            "url": "https://evrimagaci.org/uludag-kertenkelesi-darevskia-bithynica-tristis-5244"
+                                          },
+                                          {
+                                            "name": "İstanbul kertenkelesi (Podarcis siculus)",
+                                            "taxonomy_name_tr": "İstanbul kertenkelesi",
+                                            "taxonomy_name_la": "Podarcis siculus",
+                                            "id": "5262",
+                                            "url": "https://evrimagaci.org/istanbul-kertenkelesi-podarcis-siculus-5262"
+                                          },
+                                          {
+                                            "name": "Zümrüt kertenkele (Lacerta viridis)",
+                                            "taxonomy_name_tr": "Zümrüt kertenkele",
+                                            "taxonomy_name_la": "Lacerta viridis",
+                                            "id": "5273",
+                                            "url": "https://evrimagaci.org/zumrut-kertenkele-lacerta-viridis-5273"
+                                          },
+                                          {
+                                            "name": "Dikenli keler (Stellagama stellio)",
+                                            "taxonomy_name_tr": "Dikenli keler",
+                                            "taxonomy_name_la": "Stellagama stellio",
+                                            "id": "5397",
+                                            "url": "https://evrimagaci.org/dikenli-keler-stellagama-stellio-5397"
+                                          },
+                                          {
+                                            "name": "Cüce kertenkele (Parvilacerta parva)",
+                                            "taxonomy_name_tr": "Cüce kertenkele",
+                                            "taxonomy_name_la": "Parvilacerta parva",
+                                            "id": "7214",
+                                            "url": "https://evrimagaci.org/cuce-kertenkele-parvilacerta-parva-7214"
+                                          },
+                                          {
+                                            "name": "Damalı su yılanı (Natrix tessellata)",
+                                            "taxonomy_name_tr": "Damalı su yılanı",
+                                            "taxonomy_name_la": "Natrix tessellata",
+                                            "id": "7260",
+                                            "url": "https://evrimagaci.org/damali-su-yilani-natrix-tessellata-7260"
+                                          },
+                                          {
+                                            "name": "Yılan gözlü kertenkele (Ophisops elegans)",
+                                            "taxonomy_name_tr": "Yılan gözlü kertenkele",
+                                            "taxonomy_name_la": "Ophisops elegans",
+                                            "id": "7597",
+                                            "url": "https://evrimagaci.org/yilan-gozlu-kertenkele-ophisops-elegans-7597"
+                                          },
+                                          {
+                                            "name": "Akdeniz ince parmaklı keleri (Mediodactylus danilewskii)",
+                                            "taxonomy_name_tr": "Akdeniz ince parmaklı keleri",
+                                            "taxonomy_name_la": "Mediodactylus danilewskii",
+                                            "id": "7614",
+                                            "url": "https://evrimagaci.org/akdeniz-ince-parmakli-keleri-mediodactylus-danilewskii-7614"
+                                          },
+                                          {
+                                            "name": "Bukalemun (Chamaeleo chamaeleon)",
+                                            "taxonomy_name_tr": "Bukalemun",
+                                            "taxonomy_name_la": "Chamaeleo chamaeleon",
+                                            "id": "7666",
+                                            "url": "https://evrimagaci.org/bukalemun-chamaeleo-chamaeleon-7666"
+                                          },
+                                          {
+                                            "name": "İnce kertenkele (Ablepharus kitaibelii)",
+                                            "taxonomy_name_tr": "İnce kertenkele",
+                                            "taxonomy_name_la": "Ablepharus kitaibelii",
+                                            "id": "8030",
+                                            "url": "https://evrimagaci.org/ince-kertenkele-ablepharus-kitaibelii-8030"
+                                          },
+                                          {
+                                            "name": "Uzuvsuz Kertenkelegiller (Anguidae)",
+                                            "taxonomy_name_tr": "Uzuvsuz Kertenkelegiller",
+                                            "taxonomy_name_la": "Anguidae",
+                                            "id": "8537",
+                                            "url": "https://evrimagaci.org/uzuvsuz-kertenkelegiller-anguidae-8537",
+                                            "children": [
+                                              {
+                                                "name": "Yılanımsı kertenkele (Anguis colchica)",
+                                                "taxonomy_name_tr": "Yılanımsı kertenkele",
+                                                "taxonomy_name_la": "Anguis colchica",
+                                                "id": "7259",
+                                                "url": "https://evrimagaci.org/yilanimsi-kertenkele-anguis-colchica-7259"
+                                              },
+                                              {
+                                                "name": "Oluklu kertenkele (Pseudopus apodus)",
+                                                "taxonomy_name_tr": "Oluklu kertenkele",
+                                                "taxonomy_name_la": "Pseudopus apodus",
+                                                "id": "7608",
+                                                "url": "https://evrimagaci.org/oluklu-kertenkele-pseudopus-apodus-7608"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Çayır kertenkelesi (Darevskia pontica)",
+                                            "taxonomy_name_tr": "Çayır kertenkelesi",
+                                            "taxonomy_name_la": "Darevskia pontica",
+                                            "id": "8729",
+                                            "url": "https://evrimagaci.org/cayir-kertenkelesi-darevskia-pontica-8729"
+                                          },
+                                          {
+                                            "name": "Trakya kertenkelesi (Podarcis tauricus)",
+                                            "taxonomy_name_tr": "Trakya kertenkelesi",
+                                            "taxonomy_name_la": "Podarcis tauricus",
+                                            "id": "8737",
+                                            "url": "https://evrimagaci.org/trakya-kertenkelesi-podarcis-tauricus-8737"
+                                          },
+                                          {
+                                            "name": "Hazer yılanı (Dolichophis caspius)",
+                                            "taxonomy_name_tr": "Hazer yılanı",
+                                            "taxonomy_name_la": "Dolichophis caspius",
+                                            "id": "9053",
+                                            "url": "https://evrimagaci.org/hazer-yilani-dolichophis-caspius-9053"
+                                          },
+                                          {
+                                            "name": "Eskülap yılanı (Zamenis longissimus)",
+                                            "taxonomy_name_tr": "Eskülap yılanı",
+                                            "taxonomy_name_la": "Zamenis longissimus",
+                                            "id": "9309",
+                                            "url": "https://evrimagaci.org/eskulap-yilani-zamenis-longissimus-9309"
+                                          },
+                                          {
+                                            "name": "Pullular (Squamata)",
+                                            "taxonomy_name_tr": "Pullular",
+                                            "taxonomy_name_la": "Squamata",
+                                            "id": "9903",
+                                            "url": "https://evrimagaci.org/pullular-squamata-9903"
+                                          },
+                                          {
+                                            "name": "Yarı sucul yılan (Natrix natrix)",
+                                            "taxonomy_name_tr": "Yarı sucul yılan",
+                                            "taxonomy_name_la": "Natrix natrix",
+                                            "id": "10710",
+                                            "url": "https://evrimagaci.org/yari-sucul-yilan-natrix-natrix-10710"
+                                          },
+                                          {
+                                            "name": "Gila Canavarı (Heloderma suspectum)",
+                                            "taxonomy_name_tr": "Gila Canavarı",
+                                            "taxonomy_name_la": "Heloderma suspectum",
+                                            "id": "11755",
+                                            "url": "https://evrimagaci.org/gila-canavari-heloderma-suspectum-11755"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Memeliler (Mammalia)",
+                                        "taxonomy_name_tr": "Memeliler",
+                                        "taxonomy_name_la": "Mammalia",
+                                        "id": "7254",
+                                        "url": "https://evrimagaci.org/memeliler-mammalia-7254",
+                                        "children": [
+                                          {
+                                            "name": "Yumurtlayan Memeliler (Prototheria)",
+                                            "taxonomy_name_tr": "Yumurtlayan Memeliler",
+                                            "taxonomy_name_la": "Prototheria",
+                                            "id": "7272",
+                                            "url": "https://evrimagaci.org/yumurtlayan-memeliler-prototheria-7272",
+                                            "children": [
+                                              {
+                                                "name": "Tek Delikliler (Monotremata)",
+                                                "taxonomy_name_tr": "Tek Delikliler",
+                                                "taxonomy_name_la": "Monotremata",
+                                                "id": "7270",
+                                                "url": "https://evrimagaci.org/tek-delikliler-monotremata-7270"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Doğuran Memeliler (Theria)",
+                                            "taxonomy_name_tr": "Doğuran Memeliler",
+                                            "taxonomy_name_la": "Theria",
+                                            "id": "7273",
+                                            "url": "https://evrimagaci.org/doguran-memeliler-theria-7273",
+                                            "children": [
+                                              {
+                                                "name": "Keseliler (Metatheria)",
+                                                "taxonomy_name_tr": "Keseliler",
+                                                "taxonomy_name_la": "Metatheria",
+                                                "id": "7274",
+                                                "url": "https://evrimagaci.org/keseliler-metatheria-7274",
+                                                "children": [
+                                                  {
+                                                    "name": "Ağaç kangurusu (Dendrolagus)",
+                                                    "taxonomy_name_tr": "Ağaç kangurusu",
+                                                    "taxonomy_name_la": "Dendrolagus",
+                                                    "id": "541",
+                                                    "url": "https://evrimagaci.org/agac-kangurusu-dendrolagus-541"
+                                                  },
+                                                  {
+                                                    "name": "Quokka (Setonix brachyurus)",
+                                                    "taxonomy_name_tr": "Quokka",
+                                                    "taxonomy_name_la": "Setonix brachyurus",
+                                                    "id": "10217",
+                                                    "url": "https://evrimagaci.org/quokka-setonix-brachyurus-10217"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Eteneliler (Eutheria)",
+                                                "taxonomy_name_tr": "Eteneliler",
+                                                "taxonomy_name_la": "Eutheria",
+                                                "id": "7275",
+                                                "url": "https://evrimagaci.org/eteneliler-eutheria-7275",
+                                                "children": [
+                                                  {
+                                                    "name": "Güneş ayısı (Helarctos malayanus)",
+                                                    "taxonomy_name_tr": "Güneş ayısı",
+                                                    "taxonomy_name_la": "Helarctos malayanus",
+                                                    "id": "833",
+                                                    "url": "https://evrimagaci.org/gunes-ayisi-helarctos-malayanus-833"
+                                                  },
+                                                  {
+                                                    "name": "Mavi Balina (Balaenoptera musculus)",
+                                                    "taxonomy_name_tr": "Mavi Balina",
+                                                    "taxonomy_name_la": "Balaenoptera musculus",
+                                                    "id": "3647",
+                                                    "url": "https://evrimagaci.org/mavi-balina-balaenoptera-musculus-3647"
+                                                  },
+                                                  {
+                                                    "name": "Kemirgenler (Rodentia)",
+                                                    "taxonomy_name_tr": "Kemirgenler",
+                                                    "taxonomy_name_la": "Rodentia",
+                                                    "id": "7276",
+                                                    "url": "https://evrimagaci.org/kemirgenler-rodentia-7276",
+                                                    "children": [
+                                                      {
+                                                        "name": "Araptavşanı (Allactaga williamsi)",
+                                                        "taxonomy_name_tr": "Araptavşanı",
+                                                        "taxonomy_name_la": "Allactaga williamsi",
+                                                        "id": "5359",
+                                                        "url": "https://evrimagaci.org/araptavsani-allactaga-williamsi-5359"
+                                                      },
+                                                      {
+                                                        "name": "Boz sincap (Sciurus carolinensis)",
+                                                        "taxonomy_name_tr": "Boz sincap",
+                                                        "taxonomy_name_la": "Sciurus carolinensis",
+                                                        "id": "7296",
+                                                        "url": "https://evrimagaci.org/boz-sincap-sciurus-carolinensis-7296"
+                                                      },
+                                                      {
+                                                        "name": "Kafkas sincabı (Sciurus anomalus)",
+                                                        "taxonomy_name_tr": "Kafkas sincabı",
+                                                        "taxonomy_name_la": "Sciurus anomalus",
+                                                        "id": "7367",
+                                                        "url": "https://evrimagaci.org/kafkas-sincabi-sciurus-anomalus-7367"
+                                                      },
+                                                      {
+                                                        "name": "Kapibara (Hydrochoerus hydrochaeris)",
+                                                        "taxonomy_name_tr": "Kapibara",
+                                                        "taxonomy_name_la": "Hydrochoerus hydrochaeris",
+                                                        "id": "11259",
+                                                        "url": "https://evrimagaci.org/kapibara-hydrochoerus-hydrochaeris-11259"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Tavşanımsılar (Lagomorpha)",
+                                                    "taxonomy_name_tr": "Tavşanımsılar",
+                                                    "taxonomy_name_la": "Lagomorpha",
+                                                    "id": "7277",
+                                                    "url": "https://evrimagaci.org/tavsanimsilar-lagomorpha-7277",
+                                                    "children": [
+                                                      {
+                                                        "name": "Yabani tavşan (Lepus europaeus)",
+                                                        "taxonomy_name_tr": "Yabani tavşan",
+                                                        "taxonomy_name_la": "Lepus europaeus",
+                                                        "id": "6984",
+                                                        "url": "https://evrimagaci.org/yabani-tavsan-lepus-europaeus-6984"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Primatlar (Primates)",
+                                                    "taxonomy_name_tr": "Primatlar",
+                                                    "taxonomy_name_la": "Primates",
+                                                    "id": "7308",
+                                                    "url": "https://evrimagaci.org/primatlar-primates-7308",
+                                                    "children": [
+                                                      {
+                                                        "name": "Islak Burunlu Primatlar (Strepsirrhini)",
+                                                        "taxonomy_name_tr": "Islak Burunlu Primatlar",
+                                                        "taxonomy_name_la": "Strepsirrhini",
+                                                        "id": "7313",
+                                                        "url": "https://evrimagaci.org/islak-burunlu-primatlar-strepsirrhini-7313"
+                                                      },
+                                                      {
+                                                        "name": "Kuru Burunlu Primatlar (Haplorhini)",
+                                                        "taxonomy_name_tr": "Kuru Burunlu Primatlar",
+                                                        "taxonomy_name_la": "Haplorhini",
+                                                        "id": "7314",
+                                                        "url": "https://evrimagaci.org/kuru-burunlu-primatlar-haplorhini-7314",
+                                                        "children": [
+                                                          {
+                                                            "name": "Simiyenler (Simiiformes)",
+                                                            "taxonomy_name_tr": "Simiyenler",
+                                                            "taxonomy_name_la": "Simiiformes",
+                                                            "id": "8172",
+                                                            "url": "https://evrimagaci.org/simiyenler-simiiformes-8172",
+                                                            "children": [
+                                                              {
+                                                                "name": "Aşağı Burunlu Maymunlar (Catarrhini)",
+                                                                "taxonomy_name_tr": "Aşağı Burunlu Maymunlar",
+                                                                "taxonomy_name_la": "Catarrhini",
+                                                                "id": "8176",
+                                                                "url": "https://evrimagaci.org/asagi-burunlu-maymunlar-catarrhini-8176",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "Eski Dünya Maymunları (Cercopithecidae)",
+                                                                    "taxonomy_name_tr": "Eski Dünya Maymunları",
+                                                                    "taxonomy_name_la": "Cercopithecidae",
+                                                                    "id": "8181",
+                                                                    "url": "https://evrimagaci.org/eski-dunya-maymunlari-cercopithecidae-8181",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Uzun burunlu maymun (Nasalis larvatus)",
+                                                                        "taxonomy_name_tr": "Uzun burunlu maymun",
+                                                                        "taxonomy_name_la": "Nasalis larvatus",
+                                                                        "id": "2279",
+                                                                        "url": "https://evrimagaci.org/uzun-burunlu-maymun-nasalis-larvatus-2279"
+                                                                      },
+                                                                      {
+                                                                        "name": "Mantolu geriza (Colobus guereza)",
+                                                                        "taxonomy_name_tr": "Mantolu geriza",
+                                                                        "taxonomy_name_la": "Colobus guereza",
+                                                                        "id": "7360",
+                                                                        "url": "https://evrimagaci.org/mantolu-geriza-colobus-guereza-7360"
+                                                                      },
+                                                                      {
+                                                                        "name": "Babunlar (Papio)",
+                                                                        "taxonomy_name_tr": "Babunlar",
+                                                                        "taxonomy_name_la": "Papio",
+                                                                        "id": "7890",
+                                                                        "url": "https://evrimagaci.org/babunlar-papio-7890"
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "name": "Kuyruksuz Maymunlar (Hominoidea)",
+                                                                    "taxonomy_name_tr": "Kuyruksuz Maymunlar",
+                                                                    "taxonomy_name_la": "Hominoidea",
+                                                                    "id": "8182",
+                                                                    "url": "https://evrimagaci.org/kuyruksuz-maymunlar-hominoidea-8182",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "İnsangiller (Hominidae)",
+                                                                        "taxonomy_name_tr": "İnsangiller",
+                                                                        "taxonomy_name_la": "Hominidae",
+                                                                        "id": "8184",
+                                                                        "url": "https://evrimagaci.org/insangiller-hominidae-8184",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "Doğu gorili (Gorilla beringei)",
+                                                                            "taxonomy_name_tr": "Doğu gorili",
+                                                                            "taxonomy_name_la": "Gorilla beringei",
+                                                                            "id": "7319",
+                                                                            "url": "https://evrimagaci.org/dogu-gorili-gorilla-beringei-7319"
+                                                                          },
+                                                                          {
+                                                                            "name": "Şempanze (Pan troglodytes)",
+                                                                            "taxonomy_name_tr": "Şempanze",
+                                                                            "taxonomy_name_la": "Pan troglodytes",
+                                                                            "id": "9901",
+                                                                            "url": "https://evrimagaci.org/sempanze-pan-troglodytes-9901"
+                                                                          },
+                                                                          {
+                                                                            "name": "Bonobo (Pan paniscus)",
+                                                                            "taxonomy_name_tr": "Bonobo",
+                                                                            "taxonomy_name_la": "Pan paniscus",
+                                                                            "id": "11245",
+                                                                            "url": "https://evrimagaci.org/bonobo-pan-paniscus-11245"
+                                                                          },
+                                                                          {
+                                                                            "name": "Orangutan (Pongo)",
+                                                                            "taxonomy_name_tr": "Orangutan",
+                                                                            "taxonomy_name_la": "Pongo",
+                                                                            "id": "11305",
+                                                                            "url": "https://evrimagaci.org/orangutan-pongo-11305"
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "name": "Yeni Dünya Maymunları (Platyrrhini)",
+                                                                "taxonomy_name_tr": "Yeni Dünya Maymunları",
+                                                                "taxonomy_name_la": "Platyrrhini",
+                                                                "id": "8177",
+                                                                "url": "https://evrimagaci.org/yeni-dunya-maymunlari-platyrrhini-8177"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "Tarsiyerler (Tarsiiformes)",
+                                                            "taxonomy_name_tr": "Tarsiyerler",
+                                                            "taxonomy_name_la": "Tarsiiformes",
+                                                            "id": "8173",
+                                                            "url": "https://evrimagaci.org/tarsiyerler-tarsiiformes-8173"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Kedigiller (Felidae)",
+                                                    "taxonomy_name_tr": "Kedigiller",
+                                                    "taxonomy_name_la": "Felidae",
+                                                    "id": "7368",
+                                                    "url": "https://evrimagaci.org/kedigiller-felidae-7368",
+                                                    "children": [
+                                                      {
+                                                        "name": "Küçük Kediler (Felinae)",
+                                                        "taxonomy_name_tr": "Küçük Kediler",
+                                                        "taxonomy_name_la": "Felinae",
+                                                        "id": "7874",
+                                                        "url": "https://evrimagaci.org/kucuk-kediler-felinae-7874",
+                                                        "children": [
+                                                          {
+                                                            "name": "Saz kedisi (Felis chaus)",
+                                                            "taxonomy_name_tr": "Saz kedisi",
+                                                            "taxonomy_name_la": "Felis chaus",
+                                                            "id": "8595",
+                                                            "url": "https://evrimagaci.org/saz-kedisi-felis-chaus-8595"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Büyük Kediler (Pantherinae)",
+                                                        "taxonomy_name_tr": "Büyük Kediler",
+                                                        "taxonomy_name_la": "Pantherinae",
+                                                        "id": "7875",
+                                                        "url": "https://evrimagaci.org/buyuk-kediler-pantherinae-7875",
+                                                        "children": [
+                                                          {
+                                                            "name": "Panterler (Panthera)",
+                                                            "taxonomy_name_tr": "Panterler",
+                                                            "taxonomy_name_la": "Panthera",
+                                                            "id": "7878",
+                                                            "url": "https://evrimagaci.org/panterler-panthera-7878",
+                                                            "children": [
+                                                              {
+                                                                "name": "Sibirya kaplanı (Panthera tigris tigris)",
+                                                                "taxonomy_name_tr": "Sibirya kaplanı",
+                                                                "taxonomy_name_la": "Panthera tigris tigris",
+                                                                "id": "7369",
+                                                                "url": "https://evrimagaci.org/sibirya-kaplani-panthera-tigris-tigris-7369"
+                                                              },
+                                                              {
+                                                                "name": "Jaguar (Panthera onca)",
+                                                                "taxonomy_name_tr": "Jaguar",
+                                                                "taxonomy_name_la": "Panthera onca",
+                                                                "id": "7880",
+                                                                "url": "https://evrimagaci.org/jaguar-panthera-onca-7880"
+                                                              },
+                                                              {
+                                                                "name": "Anadolu, İran, Kafkas Parsı (Panthera pardus tulliana)",
+                                                                "taxonomy_name_tr": "Anadolu, İran, Kafkas Parsı",
+                                                                "taxonomy_name_la": "Panthera pardus tulliana",
+                                                                "id": "10468",
+                                                                "url": "https://evrimagaci.org/anadolu-iran-kafkas-parsi-panthera-pardus-tulliana-10468"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "Bulutlu parslar (Neofelis)",
+                                                            "taxonomy_name_tr": "Bulutlu parslar",
+                                                            "taxonomy_name_la": "Neofelis",
+                                                            "id": "9635",
+                                                            "url": "https://evrimagaci.org/bulutlu-parslar-neofelis-9635"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Çift Toynaklılar (Artiodactyla)",
+                                                    "taxonomy_name_tr": "Çift Toynaklılar",
+                                                    "taxonomy_name_la": "Artiodactyla",
+                                                    "id": "7440",
+                                                    "url": "https://evrimagaci.org/cift-toynaklilar-artiodactyla-7440",
+                                                    "children": [
+                                                      {
+                                                        "name": "Zürafa (Giraffa)",
+                                                        "taxonomy_name_tr": "Zürafa",
+                                                        "taxonomy_name_la": "Giraffa",
+                                                        "id": "3332",
+                                                        "url": "https://evrimagaci.org/zurafa-giraffa-3332"
+                                                      },
+                                                      {
+                                                        "name": "Kızıl geyik (Cervus elaphus)",
+                                                        "taxonomy_name_tr": "Kızıl geyik",
+                                                        "taxonomy_name_la": "Cervus elaphus",
+                                                        "id": "7441",
+                                                        "url": "https://evrimagaci.org/kizil-geyik-cervus-elaphus-7441"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Sansargiller (Mustelidae)",
+                                                    "taxonomy_name_tr": "Sansargiller",
+                                                    "taxonomy_name_la": "Mustelidae",
+                                                    "id": "7687",
+                                                    "url": "https://evrimagaci.org/sansargiller-mustelidae-7687",
+                                                    "children": [
+                                                      {
+                                                        "name": "Su samuru (Lutra lutra)",
+                                                        "taxonomy_name_tr": "Su samuru",
+                                                        "taxonomy_name_la": "Lutra lutra",
+                                                        "id": "7682",
+                                                        "url": "https://evrimagaci.org/su-samuru-lutra-lutra-7682"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Köpekgiller (Canidae)",
+                                                    "taxonomy_name_tr": "Köpekgiller",
+                                                    "taxonomy_name_la": "Canidae",
+                                                    "id": "8487",
+                                                    "url": "https://evrimagaci.org/kopekgiller-canidae-8487",
+                                                    "children": [
+                                                      {
+                                                        "name": "Altın çakal (Canis aureus)",
+                                                        "taxonomy_name_tr": "Altın çakal",
+                                                        "taxonomy_name_la": "Canis aureus",
+                                                        "id": "8474",
+                                                        "url": "https://evrimagaci.org/altin-cakal-canis-aureus-8474"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Deniz İnekleri (Sirenia)",
+                                                    "taxonomy_name_tr": "Deniz İnekleri",
+                                                    "taxonomy_name_la": "Sirenia",
+                                                    "id": "9643",
+                                                    "url": "https://evrimagaci.org/deniz-inekleri-sirenia-9643"
+                                                  },
+                                                  {
+                                                    "name": "Çizgili sırtlan (Hyaena hyaena)",
+                                                    "taxonomy_name_tr": "Çizgili sırtlan",
+                                                    "taxonomy_name_la": "Hyaena hyaena",
+                                                    "id": "9781",
+                                                    "url": "https://evrimagaci.org/cizgili-sirtlan-hyaena-hyaena-9781"
+                                                  },
+                                                  {
+                                                    "name": "Fossa (Cryptoprocta ferox)",
+                                                    "taxonomy_name_tr": "Fossa",
+                                                    "taxonomy_name_la": "Cryptoprocta ferox",
+                                                    "id": "9942",
+                                                    "url": "https://evrimagaci.org/fossa-cryptoprocta-ferox-9942"
+                                                  },
+                                                  {
+                                                    "name": "Fil (Elephantinae)",
+                                                    "taxonomy_name_tr": "Fil",
+                                                    "taxonomy_name_la": "Elephantinae",
+                                                    "id": "11371",
+                                                    "url": "https://evrimagaci.org/fil-elephantinae-11371"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Balıklar (Pisces)",
+                                        "taxonomy_name_tr": "Balıklar",
+                                        "taxonomy_name_la": "Pisces",
+                                        "id": "7271",
+                                        "url": "https://evrimagaci.org/baliklar-pisces-7271",
+                                        "children": [
+                                          {
+                                            "name": "Uçan Balıklar (Exocoetidae)",
+                                            "taxonomy_name_tr": "Uçan Balıklar",
+                                            "taxonomy_name_la": "Exocoetidae",
+                                            "id": "830",
+                                            "url": "https://evrimagaci.org/ucan-baliklar-exocoetidae-830"
+                                          },
+                                          {
+                                            "name": "Yapraklı Denizejderi (Phycodurus eques)",
+                                            "taxonomy_name_tr": "Yapraklı Denizejderi",
+                                            "taxonomy_name_la": "Phycodurus eques",
+                                            "id": "832",
+                                            "url": "https://evrimagaci.org/yaprakli-denizejderi-phycodurus-eques-832"
+                                          },
+                                          {
+                                            "name": "Goblin Köpekbalığı (Mitsukurina owstoni)",
+                                            "taxonomy_name_tr": "Goblin Köpekbalığı",
+                                            "taxonomy_name_la": "Mitsukurina owstoni",
+                                            "id": "1526",
+                                            "url": "https://evrimagaci.org/goblin-kopekbaligi-mitsukurina-owstoni-1526"
+                                          },
+                                          {
+                                            "name": "Kara Yutucu (Chiasmodon niger)",
+                                            "taxonomy_name_tr": "Kara Yutucu",
+                                            "taxonomy_name_la": "Chiasmodon niger",
+                                            "id": "1701",
+                                            "url": "https://evrimagaci.org/kara-yutucu-chiasmodon-niger-1701"
+                                          },
+                                          {
+                                            "name": "Guillet gobi (Lebetus guilleti)",
+                                            "taxonomy_name_tr": "Guillet gobi",
+                                            "taxonomy_name_la": "Lebetus guilleti",
+                                            "id": "7400",
+                                            "url": "https://evrimagaci.org/guillet-gobi-lebetus-guilleti-7400"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Amfibiyenler (Amphibia)",
+                                        "taxonomy_name_tr": "Amfibiyenler",
+                                        "taxonomy_name_la": "Amphibia",
+                                        "id": "7686",
+                                        "url": "https://evrimagaci.org/amfibiyenler-amphibia-7686",
+                                        "children": [
+                                          {
+                                            "name": "Semenderler (Urodela)",
+                                            "taxonomy_name_tr": "Semenderler",
+                                            "taxonomy_name_la": "Urodela",
+                                            "id": "8836",
+                                            "url": "https://evrimagaci.org/semenderler-urodela-8836",
+                                            "children": [
+                                              {
+                                                "name": "Aksolot semenderi (Ambystoma mexicanum)",
+                                                "taxonomy_name_tr": "Aksolot semenderi",
+                                                "taxonomy_name_la": "Ambystoma mexicanum",
+                                                "id": "546",
+                                                "url": "https://evrimagaci.org/aksolot-semenderi-ambystoma-mexicanum-546"
+                                              },
+                                              {
+                                                "name": "Küçük semender (Lissotriton vulgaris)",
+                                                "taxonomy_name_tr": "Küçük semender",
+                                                "taxonomy_name_la": "Lissotriton vulgaris",
+                                                "id": "7730",
+                                                "url": "https://evrimagaci.org/kucuk-semender-lissotriton-vulgaris-7730"
+                                              },
+                                              {
+                                                "name": "Türk semenderi (Salamandra infraimmaculata)",
+                                                "taxonomy_name_tr": "Türk semenderi",
+                                                "taxonomy_name_la": "Salamandra infraimmaculata",
+                                                "id": "8855",
+                                                "url": "https://evrimagaci.org/turk-semenderi-salamandra-infraimmaculata-8855"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kurbağalar (Anura)",
+                                            "taxonomy_name_tr": "Kurbağalar",
+                                            "taxonomy_name_la": "Anura",
+                                            "id": "8863",
+                                            "url": "https://evrimagaci.org/kurbagalar-anura-8863",
+                                            "children": [
+                                              {
+                                                "name": "Ova kurbağası (Pelophylax ridibundus )",
+                                                "taxonomy_name_tr": "Ova kurbağası",
+                                                "taxonomy_name_la": "Pelophylax ridibundus",
+                                                "id": "7681",
+                                                "url": "https://evrimagaci.org/ova-kurbagasi-pelophylax-ridibundus--7681"
+                                              },
+                                              {
+                                                "name": "Ağaç kurbağası (Hyla orientalis)",
+                                                "taxonomy_name_tr": "Ağaç kurbağası",
+                                                "taxonomy_name_la": "Hyla orientalis",
+                                                "id": "7738",
+                                                "url": "https://evrimagaci.org/agac-kurbagasi-hyla-orientalis-7738"
+                                              },
+                                              {
+                                                "name": "Siğilli kurbağa (Bufo bufo)",
+                                                "taxonomy_name_tr": "Siğilli kurbağa",
+                                                "taxonomy_name_la": "Bufo bufo",
+                                                "id": "7754",
+                                                "url": "https://evrimagaci.org/sigilli-kurbaga-bufo-bufo-7754"
+                                              },
+                                              {
+                                                "name": "Çevik kurbağa (Rana dalmatina)",
+                                                "taxonomy_name_tr": "Çevik kurbağa",
+                                                "taxonomy_name_la": "Rana dalmatina",
+                                                "id": "8990",
+                                                "url": "https://evrimagaci.org/cevik-kurbaga-rana-dalmatina-8990"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "İlkin Ağızlılar (Protostomia)",
+                            "taxonomy_name_tr": "İlkin Ağızlılar",
+                            "taxonomy_name_la": "Protostomia",
+                            "id": "7301",
+                            "url": "https://evrimagaci.org/ilkin-agizlilar-protostomia-7301",
+                            "children": [
+                              {
+                                "name": "Ekdisozoa (Ecdysozoa)",
+                                "taxonomy_name_tr": "Ekdisozoa",
+                                "taxonomy_name_la": "Ecdysozoa",
+                                "id": "7298",
+                                "url": "https://evrimagaci.org/ekdisozoa-ecdysozoa-7298",
+                                "children": [
+                                  {
+                                    "name": "Eklembacaklılar (Arthropoda)",
+                                    "taxonomy_name_tr": "Eklembacaklılar",
+                                    "taxonomy_name_la": "Arthropoda",
+                                    "id": "7233",
+                                    "url": "https://evrimagaci.org/eklembacaklilar-arthropoda-7233",
+                                    "children": [
+                                      {
+                                        "name": "Böcekler (Insecta)",
+                                        "taxonomy_name_tr": "Böcekler",
+                                        "taxonomy_name_la": "Insecta",
+                                        "id": "7232",
+                                        "url": "https://evrimagaci.org/bocekler-insecta-7232",
+                                        "children": [
+                                          {
+                                            "name": "Peygamber Devesi (Mantodea)",
+                                            "taxonomy_name_tr": "Peygamber Devesi",
+                                            "taxonomy_name_la": "Mantodea",
+                                            "id": "4886",
+                                            "url": "https://evrimagaci.org/peygamber-devesi-mantodea-4886"
+                                          },
+                                          {
+                                            "name": "Asya uğur böceği (Harmonia axyridis)",
+                                            "taxonomy_name_tr": "Asya uğur böceği",
+                                            "taxonomy_name_la": "Harmonia axyridis",
+                                            "id": "5375",
+                                            "url": "https://evrimagaci.org/asya-ugur-bocegi-harmonia-axyridis-5375"
+                                          },
+                                          {
+                                            "name": "Sinekler (Diptera)",
+                                            "taxonomy_name_tr": "Sinekler",
+                                            "taxonomy_name_la": "Diptera",
+                                            "id": "7231",
+                                            "url": "https://evrimagaci.org/sinekler-diptera-7231",
+                                            "children": [
+                                              {
+                                                "name": "Taklitçi parazit sinek (Tachina fera)",
+                                                "taxonomy_name_tr": "Taklitçi parazit sinek",
+                                                "taxonomy_name_la": "Tachina fera",
+                                                "id": "5374",
+                                                "url": "https://evrimagaci.org/taklitci-parazit-sinek-tachina-fera-5374"
+                                              },
+                                              {
+                                                "name": "Yeşil şişe sineği (Lucilia caesar)",
+                                                "taxonomy_name_tr": "Yeşil şişe sineği",
+                                                "taxonomy_name_la": "Lucilia caesar",
+                                                "id": "5399",
+                                                "url": "https://evrimagaci.org/yesil-sise-sinegi-lucilia-caesar-5399"
+                                              },
+                                              {
+                                                "name": "Suikastçi Sinekler (Asilidae)",
+                                                "taxonomy_name_tr": "Suikastçi Sinekler",
+                                                "taxonomy_name_la": "Asilidae",
+                                                "id": "7234",
+                                                "url": "https://evrimagaci.org/suikastci-sinekler-asilidae-7234",
+                                                "children": [
+                                                  {
+                                                    "name": "Suikastçi sinek (Asilinae)",
+                                                    "taxonomy_name_tr": "Suikastçi sinek",
+                                                    "taxonomy_name_la": "Asilinae",
+                                                    "id": "5373",
+                                                    "url": "https://evrimagaci.org/suikastci-sinek-asilinae-5373"
+                                                  },
+                                                  {
+                                                    "name": "Siyah suikastçi sinek (Dasypogon)",
+                                                    "taxonomy_name_tr": "Siyah suikastçi sinek",
+                                                    "taxonomy_name_la": "Dasypogon",
+                                                    "id": "7224",
+                                                    "url": "https://evrimagaci.org/siyah-suikastci-sinek-dasypogon-7224"
+                                                  },
+                                                  {
+                                                    "name": "Fas suikastçi sineği (Pogonosoma maroccanum)",
+                                                    "taxonomy_name_tr": "Fas suikastçi sineği",
+                                                    "taxonomy_name_la": "Pogonosoma maroccanum",
+                                                    "id": "7700",
+                                                    "url": "https://evrimagaci.org/fas-suikastci-sinegi-pogonosoma-maroccanum-7700"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Karasinek (Musca domestica)",
+                                                "taxonomy_name_tr": "Karasinek",
+                                                "taxonomy_name_la": "Musca domestica",
+                                                "id": "7688",
+                                                "url": "https://evrimagaci.org/karasinek-musca-domestica-7688"
+                                              },
+                                              {
+                                                "name": "Sığır Sineğigiller (Tabanidae)",
+                                                "taxonomy_name_tr": "Sığır Sineğigiller",
+                                                "taxonomy_name_la": "Tabanidae",
+                                                "id": "8427",
+                                                "url": "https://evrimagaci.org/sigir-sinegigiller-tabanidae-8427"
+                                              },
+                                              {
+                                                "name": "Arı Sinekleri (Bombyliidae)",
+                                                "taxonomy_name_tr": "Arı Sinekleri",
+                                                "taxonomy_name_la": "Bombyliidae",
+                                                "id": "8495",
+                                                "url": "https://evrimagaci.org/ari-sinekleri-bombyliidae-8495",
+                                                "children": [
+                                                  {
+                                                    "name": "Arı sineği (Hemipenthes morio)",
+                                                    "taxonomy_name_tr": "Arı sineği",
+                                                    "taxonomy_name_la": "Hemipenthes morio",
+                                                    "id": "8494",
+                                                    "url": "https://evrimagaci.org/ari-sinegi-hemipenthes-morio-8494"
+                                                  },
+                                                  {
+                                                    "name": "Büyük arı sineği (Bombylius major)",
+                                                    "taxonomy_name_tr": "Büyük arı sineği",
+                                                    "taxonomy_name_la": "Bombylius major",
+                                                    "id": "8496",
+                                                    "url": "https://evrimagaci.org/buyuk-ari-sinegi-bombylius-major-8496"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Loewia sineği (Loewia)",
+                                                "taxonomy_name_tr": "Loewia sineği",
+                                                "taxonomy_name_la": "Loewia",
+                                                "id": "9017",
+                                                "url": "https://evrimagaci.org/loewia-sinegi-loewia-9017"
+                                              },
+                                              {
+                                                "name": "Çiçek Sinekleri (Syrphidae)",
+                                                "taxonomy_name_tr": "Çiçek Sinekleri",
+                                                "taxonomy_name_la": "Syrphidae",
+                                                "id": "10780",
+                                                "url": "https://evrimagaci.org/cicek-sinekleri-syrphidae-10780"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Düz Kanatlılar (Orthoptera)",
+                                            "taxonomy_name_tr": "Düz Kanatlılar",
+                                            "taxonomy_name_la": "Orthoptera",
+                                            "id": "7235",
+                                            "url": "https://evrimagaci.org/duz-kanatlilar-orthoptera-7235",
+                                            "children": [
+                                              {
+                                                "name": "Beyaz yüzlü çalı çekirgesi (Decticus albifrons)",
+                                                "taxonomy_name_tr": "Beyaz yüzlü çalı çekirgesi",
+                                                "taxonomy_name_la": "Decticus albifrons",
+                                                "id": "5240",
+                                                "url": "https://evrimagaci.org/beyaz-yuzlu-cali-cekirgesi-decticus-albifrons-5240"
+                                              },
+                                              {
+                                                "name": "Koni başlı çekirge (Acrida ungarica)",
+                                                "taxonomy_name_tr": "Koni başlı çekirge",
+                                                "taxonomy_name_la": "Acrida ungarica",
+                                                "id": "5263",
+                                                "url": "https://evrimagaci.org/koni-basli-cekirge-acrida-ungarica-5263"
+                                              },
+                                              {
+                                                "name": "Mısır çekirgesi (Anacridium aegyptium)",
+                                                "taxonomy_name_tr": "Mısır çekirgesi",
+                                                "taxonomy_name_la": "Anacridium aegyptium",
+                                                "id": "5398",
+                                                "url": "https://evrimagaci.org/misir-cekirgesi-anacridium-aegyptium-5398"
+                                              },
+                                              {
+                                                "name": "Göçmen çayır çekirgesi (Eupholidoptera gocmeni)",
+                                                "taxonomy_name_tr": "Göçmen çayır çekirgesi",
+                                                "taxonomy_name_la": "Eupholidoptera gocmeni",
+                                                "id": "10474",
+                                                "url": "https://evrimagaci.org/gocmen-cayir-cekirgesi-eupholidoptera-gocmeni-10474"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Pul Kanatlılar (Lepidoptera)",
+                                            "taxonomy_name_tr": "Pul Kanatlılar",
+                                            "taxonomy_name_la": "Lepidoptera",
+                                            "id": "7243",
+                                            "url": "https://evrimagaci.org/pul-kanatlilar-lepidoptera-7243",
+                                            "children": [
+                                              {
+                                                "name": "Karaağaç sevbenisi (Satyrium w-album)",
+                                                "taxonomy_name_tr": "Karaağaç sevbenisi",
+                                                "taxonomy_name_la": "Satyrium w-album",
+                                                "id": "5410",
+                                                "url": "https://evrimagaci.org/karaagac-sevbenisi-satyrium-walbum-5410"
+                                              },
+                                              {
+                                                "name": "Krem benekli kaplan güvesi (Epicallia villica)",
+                                                "taxonomy_name_tr": "Krem benekli kaplan güvesi",
+                                                "taxonomy_name_la": "Epicallia villica",
+                                                "id": "6979",
+                                                "url": "https://evrimagaci.org/krem-benekli-kaplan-guvesi-epicallia-villica-6979"
+                                              },
+                                              {
+                                                "name": "Kırlangıçkuyruk (Papilio machaon)",
+                                                "taxonomy_name_tr": "Kırlangıçkuyruk",
+                                                "taxonomy_name_la": "Papilio machaon",
+                                                "id": "7221",
+                                                "url": "https://evrimagaci.org/kirlangickuyruk-papilio-machaon-7221"
+                                              },
+                                              {
+                                                "name": "Erik kırlangıçkuyruğu (Iphiclides podalirius)",
+                                                "taxonomy_name_tr": "Erik kırlangıçkuyruğu",
+                                                "taxonomy_name_la": "Iphiclides podalirius",
+                                                "id": "7261",
+                                                "url": "https://evrimagaci.org/erik-kirlangickuyrugu-iphiclides-podalirius-7261"
+                                              },
+                                              {
+                                                "name": "Istakoz güvesi (Stauropus fagi)",
+                                                "taxonomy_name_tr": "Istakoz güvesi",
+                                                "taxonomy_name_la": "Stauropus fagi",
+                                                "id": "7667",
+                                                "url": "https://evrimagaci.org/istakoz-guvesi-stauropus-fagi-7667"
+                                              },
+                                              {
+                                                "name": "Ay lekeli kelebek (Phalera bucephala)",
+                                                "taxonomy_name_tr": "Ay lekeli kelebek",
+                                                "taxonomy_name_la": "Phalera bucephala",
+                                                "id": "7691",
+                                                "url": "https://evrimagaci.org/ay-lekeli-kelebek-phalera-bucephala-7691"
+                                              },
+                                              {
+                                                "name": "Kükürt güvesi (Opisthograptis luteolata)",
+                                                "taxonomy_name_tr": "Kükürt güvesi",
+                                                "taxonomy_name_la": "Opisthograptis luteolata",
+                                                "id": "7761",
+                                                "url": "https://evrimagaci.org/kukurt-guvesi-opisthograptis-luteolata-7761"
+                                              },
+                                              {
+                                                "name": "Çam kese böceği (Thaumetopoea pityocampa)",
+                                                "taxonomy_name_tr": "Çam kese böceği",
+                                                "taxonomy_name_la": "Thaumetopoea pityocampa",
+                                                "id": "7771",
+                                                "url": "https://evrimagaci.org/cam-kese-bocegi-thaumetopoea-pityocampa-7771"
+                                              },
+                                              {
+                                                "name": "Osmanlı ateşi  (Lycaena ottomanus)",
+                                                "taxonomy_name_tr": "Osmanlı ateşi ",
+                                                "taxonomy_name_la": "Lycaena ottomanus",
+                                                "id": "7811",
+                                                "url": "https://evrimagaci.org/osmanli-atesi-lycaena-ottomanus-7811"
+                                              },
+                                              {
+                                                "name": "Çingene güvesi (Lymantria dispar)",
+                                                "taxonomy_name_tr": "Çingene güvesi",
+                                                "taxonomy_name_la": "Lymantria dispar",
+                                                "id": "7894",
+                                                "url": "https://evrimagaci.org/cingene-guvesi-lymantria-dispar-7894"
+                                              },
+                                              {
+                                                "name": "Atmaca Güveleri (Sphingidae)",
+                                                "taxonomy_name_tr": "Atmaca Güveleri",
+                                                "taxonomy_name_la": "Sphingidae",
+                                                "id": "7912",
+                                                "url": "https://evrimagaci.org/atmaca-guveleri-sphingidae-7912",
+                                                "children": [
+                                                  {
+                                                    "name": "Çam atmaca güvesi (Sphinx pinastri)",
+                                                    "taxonomy_name_tr": "Çam atmaca güvesi",
+                                                    "taxonomy_name_la": "Sphinx pinastri",
+                                                    "id": "7288",
+                                                    "url": "https://evrimagaci.org/cam-atmaca-guvesi-sphinx-pinastri-7288"
+                                                  },
+                                                  {
+                                                    "name": "Levant atmaca güvesi (Theretra alecto)",
+                                                    "taxonomy_name_tr": "Levant atmaca güvesi",
+                                                    "taxonomy_name_la": "Theretra alecto",
+                                                    "id": "7289",
+                                                    "url": "https://evrimagaci.org/levant-atmaca-guvesi-theretra-alecto-7289"
+                                                  },
+                                                  {
+                                                    "name": "Sarmaşık atmaca güvesi (Agrius convolvuli)",
+                                                    "taxonomy_name_tr": "Sarmaşık atmaca güvesi",
+                                                    "taxonomy_name_la": "Agrius convolvuli",
+                                                    "id": "7863",
+                                                    "url": "https://evrimagaci.org/sarmasik-atmaca-guvesi-agrius-convolvuli-7863"
+                                                  },
+                                                  {
+                                                    "name": "Kurukafa güvesi (Acherontia atropos)",
+                                                    "taxonomy_name_tr": "Kurukafa güvesi",
+                                                    "taxonomy_name_la": "Acherontia atropos",
+                                                    "id": "8224",
+                                                    "url": "https://evrimagaci.org/kurukafa-guvesi-acherontia-atropos-8224"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Avrupa altın güvesi (Axia olga)",
+                                                "taxonomy_name_tr": "Avrupa altın güvesi",
+                                                "taxonomy_name_la": "Axia olga",
+                                                "id": "8467",
+                                                "url": "https://evrimagaci.org/avrupa-altin-guvesi-axia-olga-8467"
+                                              },
+                                              {
+                                                "name": "Alaca Kelebekler (Nymphalidae)",
+                                                "taxonomy_name_tr": "Alaca Kelebekler",
+                                                "taxonomy_name_la": "Nymphalidae",
+                                                "id": "8765",
+                                                "url": "https://evrimagaci.org/alaca-kelebekler-nymphalidae-8765",
+                                                "children": [
+                                                  {
+                                                    "name": "İspanyol kraliçesi (Issoria lathonia)",
+                                                    "taxonomy_name_tr": "İspanyol kraliçesi",
+                                                    "taxonomy_name_la": "Issoria lathonia",
+                                                    "id": "7222",
+                                                    "url": "https://evrimagaci.org/ispanyol-kralicesi-issoria-lathonia-7222"
+                                                  },
+                                                  {
+                                                    "name": "Baykuş kelebeği (Caligo sp.)",
+                                                    "taxonomy_name_tr": "Baykuş kelebeği",
+                                                    "taxonomy_name_la": "Caligo sp.",
+                                                    "id": "7267",
+                                                    "url": "https://evrimagaci.org/baykus-kelebegi-caligo-sp-7267"
+                                                  },
+                                                  {
+                                                    "name": "Trakya imparatoru (Apatura metis)",
+                                                    "taxonomy_name_tr": "Trakya imparatoru",
+                                                    "taxonomy_name_la": "Apatura metis",
+                                                    "id": "7683",
+                                                    "url": "https://evrimagaci.org/trakya-imparatoru-apatura-metis-7683"
+                                                  },
+                                                  {
+                                                    "name": "Tavus kelebeği  (Nymphalis io)",
+                                                    "taxonomy_name_tr": "Tavus kelebeği",
+                                                    "taxonomy_name_la": "Nymphalis io",
+                                                    "id": "7714",
+                                                    "url": "https://evrimagaci.org/tavus-kelebegi-nymphalis-io-7714"
+                                                  },
+                                                  {
+                                                    "name": "Diken kelebeği (Vanessa cardui)",
+                                                    "taxonomy_name_tr": "Diken kelebeği",
+                                                    "taxonomy_name_la": "Vanessa cardui",
+                                                    "id": "7917",
+                                                    "url": "https://evrimagaci.org/diken-kelebegi-vanessa-cardui-7917"
+                                                  },
+                                                  {
+                                                    "name": "Çayır esmeri (Maniola jurtina)",
+                                                    "taxonomy_name_tr": "Çayır esmeri",
+                                                    "taxonomy_name_la": "Maniola jurtina",
+                                                    "id": "8755",
+                                                    "url": "https://evrimagaci.org/cayir-esmeri-maniola-jurtina-8755"
+                                                  },
+                                                  {
+                                                    "name": "Bahadır (Argynnis pandora)",
+                                                    "taxonomy_name_tr": "Bahadır",
+                                                    "taxonomy_name_la": "Argynnis pandora",
+                                                    "id": "8822",
+                                                    "url": "https://evrimagaci.org/bahadir-argynnis-pandora-8822"
+                                                  },
+                                                  {
+                                                    "name": "Yırtık Pırtık  (Polygonia c-album)",
+                                                    "taxonomy_name_tr": "Yırtık Pırtık",
+                                                    "taxonomy_name_la": "Polygonia c-album",
+                                                    "id": "9156",
+                                                    "url": "https://evrimagaci.org/yirtik-pirtik-polygonia-calbum-9156"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Alıç kelebeği (Aporia crataegi)",
+                                                "taxonomy_name_tr": "Alıç kelebeği",
+                                                "taxonomy_name_la": "Aporia crataegi",
+                                                "id": "8991",
+                                                "url": "https://evrimagaci.org/alic-kelebegi-aporia-crataegi-8991"
+                                              },
+                                              {
+                                                "name": "Mavizebra (Leptotes pirithous)",
+                                                "taxonomy_name_tr": "Mavizebra",
+                                                "taxonomy_name_la": "Leptotes pirithous",
+                                                "id": "9406",
+                                                "url": "https://evrimagaci.org/mavizebra-leptotes-pirithous-9406"
+                                              },
+                                              {
+                                                "name": "Yeni beneklimelek (Pontia edusa)",
+                                                "taxonomy_name_tr": "Yeni beneklimelek",
+                                                "taxonomy_name_la": "Pontia edusa",
+                                                "id": "9434",
+                                                "url": "https://evrimagaci.org/yeni-beneklimelek-pontia-edusa-9434"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Yusufçuklar ve Kızböcekleri (Odonata)",
+                                            "taxonomy_name_tr": "Yusufçuklar ve Kızböcekleri",
+                                            "taxonomy_name_la": "Odonata",
+                                            "id": "7255",
+                                            "url": "https://evrimagaci.org/yusufcuklar-ve-kizbocekleri-odonata-7255",
+                                            "children": [
+                                              {
+                                                "name": "Yaygın yusufçuk (Sympetrum striolatum)",
+                                                "taxonomy_name_tr": "Yaygın yusufçuk",
+                                                "taxonomy_name_la": "Sympetrum striolatum",
+                                                "id": "5272",
+                                                "url": "https://evrimagaci.org/yaygin-yusufcuk-sympetrum-striolatum-5272"
+                                              },
+                                              {
+                                                "name": "Bantlı kızböceği (Calopteryx splendens)",
+                                                "taxonomy_name_tr": "Bantlı kızböceği",
+                                                "taxonomy_name_la": "Calopteryx splendens",
+                                                "id": "7223",
+                                                "url": "https://evrimagaci.org/bantli-kizbocegi-calopteryx-splendens-7223"
+                                              },
+                                              {
+                                                "name": "Mavi kuyruklu kızböceği (Ischnura elegans)",
+                                                "taxonomy_name_tr": "Mavi kuyruklu kızböceği",
+                                                "taxonomy_name_la": "Ischnura elegans",
+                                                "id": "7256",
+                                                "url": "https://evrimagaci.org/mavi-kuyruklu-kizbocegi-ischnura-elegans-7256"
+                                              },
+                                              {
+                                                "name": "Ak kuyruklu yusufçuk (Orthetrum albistylum )",
+                                                "taxonomy_name_tr": "Ak kuyruklu yusufçuk",
+                                                "taxonomy_name_la": "Orthetrum albistylum ",
+                                                "id": "7285",
+                                                "url": "https://evrimagaci.org/ak-kuyruklu-yusufcuk-orthetrum-albistylum--7285"
+                                              },
+                                              {
+                                                "name": "Kızıl yusufçuk (Crocothemis erythraea)",
+                                                "taxonomy_name_tr": "Kızıl yusufçuk",
+                                                "taxonomy_name_la": "Crocothemis erythraea",
+                                                "id": "7286",
+                                                "url": "https://evrimagaci.org/kizil-yusufcuk-crocothemis-erythraea-7286"
+                                              },
+                                              {
+                                                "name": "Kırmızı damarlı yusufçuk (Sympetrum fonscolombii)",
+                                                "taxonomy_name_tr": "Kırmızı damarlı yusufçuk",
+                                                "taxonomy_name_la": "Sympetrum fonscolombii",
+                                                "id": "7366",
+                                                "url": "https://evrimagaci.org/kirmizi-damarli-yusufcuk-sympetrum-fonscolombii-7366"
+                                              },
+                                              {
+                                                "name": "Güney çalıbakiresi (Orthetrum brunneum)",
+                                                "taxonomy_name_tr": "Güney çalıbakiresi",
+                                                "taxonomy_name_la": "Orthetrum brunneum",
+                                                "id": "7718",
+                                                "url": "https://evrimagaci.org/guney-calibakiresi-orthetrum-brunneum-7718"
+                                              },
+                                              {
+                                                "name": "Büyük sazbakiresi (Chalcolestes parvidens)",
+                                                "taxonomy_name_tr": "Büyük sazbakiresi",
+                                                "taxonomy_name_la": "Chalcolestes parvidens",
+                                                "id": "7783",
+                                                "url": "https://evrimagaci.org/buyuk-sazbakiresi-chalcolestes-parvidens-7783"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kalkan Böcekleri (Pentatomidae)",
+                                            "taxonomy_name_tr": "Kalkan Böcekleri",
+                                            "taxonomy_name_la": "Pentatomidae",
+                                            "id": "7258",
+                                            "url": "https://evrimagaci.org/kalkan-bocekleri-pentatomidae-7258",
+                                            "children": [
+                                              {
+                                                "name": "Benekli kalkan böceği (Rhaphigaster nebulosa)",
+                                                "taxonomy_name_tr": "Benekli kalkan böceği",
+                                                "taxonomy_name_la": "Rhaphigaster nebulosa",
+                                                "id": "5372",
+                                                "url": "https://evrimagaci.org/benekli-kalkan-bocegi-rhaphigaster-nebulosa-5372"
+                                              },
+                                              {
+                                                "name": "Spinosula kalkan böceği (Mustha spinosula)",
+                                                "taxonomy_name_tr": "Spinosula kalkan böceği",
+                                                "taxonomy_name_la": "Mustha spinosula",
+                                                "id": "7291",
+                                                "url": "https://evrimagaci.org/spinosula-kalkan-bocegi-mustha-spinosula-7291"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Zar Kanatlılar (Hymenoptera)",
+                                            "taxonomy_name_tr": "Zar Kanatlılar",
+                                            "taxonomy_name_la": "Hymenoptera",
+                                            "id": "7385",
+                                            "url": "https://evrimagaci.org/zar-kanatlilar-hymenoptera-7385",
+                                            "children": [
+                                              {
+                                                "name": "Tüylü arı (Bombus terrestris)",
+                                                "taxonomy_name_tr": "Tüylü arı",
+                                                "taxonomy_name_la": "Bombus terrestris",
+                                                "id": "8112",
+                                                "url": "https://evrimagaci.org/tuylu-ari-bombus-terrestris-8112"
+                                              },
+                                              {
+                                                "name": "Karıncalar (Formicidae)",
+                                                "taxonomy_name_tr": "Karıncalar",
+                                                "taxonomy_name_la": "Formicidae",
+                                                "id": "8814",
+                                                "url": "https://evrimagaci.org/karincalar-formicidae-8814",
+                                                "children": [
+                                                  {
+                                                    "name": "Kırmızı Orman Karıncası (Formica rufa)",
+                                                    "taxonomy_name_tr": "Kırmızı Orman Karıncası",
+                                                    "taxonomy_name_la": "Formica rufa",
+                                                    "id": "11355",
+                                                    "url": "https://evrimagaci.org/kirmizi-orman-karincasi-formica-rufa-11355"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Gergedan böceği (Oryctes nasicornis)",
+                                            "taxonomy_name_tr": "Gergedan böceği",
+                                            "taxonomy_name_la": "Oryctes nasicornis",
+                                            "id": "7693",
+                                            "url": "https://evrimagaci.org/gergedan-bocegi-oryctes-nasicornis-7693"
+                                          },
+                                          {
+                                            "name": "Menekşe karafatma (Carabus scabrosus)",
+                                            "taxonomy_name_tr": "Menekşe karafatma",
+                                            "taxonomy_name_la": "Carabus scabrosus",
+                                            "id": "7896",
+                                            "url": "https://evrimagaci.org/menekse-karafatma-carabus-scabrosus-7896"
+                                          },
+                                          {
+                                            "name": "Dev Su Böcekleri (Belostomatidae)",
+                                            "taxonomy_name_tr": "Dev Su Böcekleri",
+                                            "taxonomy_name_la": "Belostomatidae",
+                                            "id": "7943",
+                                            "url": "https://evrimagaci.org/dev-su-bocekleri-belostomatidae-7943"
+                                          },
+                                          {
+                                            "name": "Japon yaprakçekirgesi (Ricania japonica)",
+                                            "taxonomy_name_tr": "Japon yaprakçekirgesi",
+                                            "taxonomy_name_la": "Ricania japonica",
+                                            "id": "8485",
+                                            "url": "https://evrimagaci.org/japon-yaprakcekirgesi-ricania-japonica-8485"
+                                          },
+                                          {
+                                            "name": "Kulağakaçanlar (Dermaptera)",
+                                            "taxonomy_name_tr": "Kulağakaçanlar",
+                                            "taxonomy_name_la": "Dermaptera",
+                                            "id": "9073",
+                                            "url": "https://evrimagaci.org/kulagakacanlar-dermaptera-9073"
+                                          },
+                                          {
+                                            "name": "Baykuş böceği (Libelloides macaronius)",
+                                            "taxonomy_name_tr": "Baykuş böceği",
+                                            "taxonomy_name_la": "Libelloides macaronius",
+                                            "id": "9084",
+                                            "url": "https://evrimagaci.org/baykus-bocegi-libelloides-macaronius-9084"
+                                          },
+                                          {
+                                            "name": "Avrupa peygamberdevesi (Mantis religiosa)",
+                                            "taxonomy_name_tr": "Avrupa peygamberdevesi",
+                                            "taxonomy_name_la": "Mantis religiosa",
+                                            "id": "9129",
+                                            "url": "https://evrimagaci.org/avrupa-peygamberdevesi-mantis-religiosa-9129"
+                                          },
+                                          {
+                                            "name": "Sırtüstü Yüzenler (Notonectidae)",
+                                            "taxonomy_name_tr": "Sırtüstü Yüzenler",
+                                            "taxonomy_name_la": "Notonectidae",
+                                            "id": "9778",
+                                            "url": "https://evrimagaci.org/sirtustu-yuzenler-notonectidae-9778"
+                                          },
+                                          {
+                                            "name": "Kulaklı yaprak biti (Ledra aurita)",
+                                            "taxonomy_name_tr": "Kulaklı yaprak biti",
+                                            "taxonomy_name_la": "Ledra aurita",
+                                            "id": "11247",
+                                            "url": "https://evrimagaci.org/kulakli-yaprak-biti-ledra-aurita-11247"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Kabuklular (Crustacea)",
+                                        "taxonomy_name_tr": "Kabuklular",
+                                        "taxonomy_name_la": "Crustacea",
+                                        "id": "7242",
+                                        "url": "https://evrimagaci.org/kabuklular-crustacea-7242",
+                                        "children": [
+                                          {
+                                            "name": "Kapan karidesi (Alpheus dentipes)",
+                                            "taxonomy_name_tr": "Kapan karidesi",
+                                            "taxonomy_name_la": "Alpheus dentipes",
+                                            "id": "7207",
+                                            "url": "https://evrimagaci.org/kapan-karidesi-alpheus-dentipes-7207"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Örümceğimsiler (Arachnida)",
+                                        "taxonomy_name_tr": "Örümceğimsiler",
+                                        "taxonomy_name_la": "Arachnida",
+                                        "id": "7257",
+                                        "url": "https://evrimagaci.org/orumcegimsiler-arachnida-7257",
+                                        "children": [
+                                          {
+                                            "name": "Üçgen yengeç örümceği (Ebrechtella tricuspidata)",
+                                            "taxonomy_name_tr": "Üçgen yengeç örümceği",
+                                            "taxonomy_name_la": "Ebrechtella tricuspidata",
+                                            "id": "5409",
+                                            "url": "https://evrimagaci.org/ucgen-yengec-orumcegi-ebrechtella-tricuspidata-5409"
+                                          },
+                                          {
+                                            "name": "Kiler örümceği (Holocnemus pluchei)",
+                                            "taxonomy_name_tr": "Kiler örümceği",
+                                            "taxonomy_name_la": "Holocnemus pluchei",
+                                            "id": "7268",
+                                            "url": "https://evrimagaci.org/kiler-orumcegi-holocnemus-pluchei-7268"
+                                          },
+                                          {
+                                            "name": "Philodromid yengeç örümceği (Philodromus sp.)",
+                                            "taxonomy_name_tr": "Philodromid yengeç örümceği",
+                                            "taxonomy_name_la": "Philodromus sp.",
+                                            "id": "7290",
+                                            "url": "https://evrimagaci.org/philodromid-yengec-orumcegi-philodromus-sp-7290"
+                                          },
+                                          {
+                                            "name": "Haçlı bahçe örümceği  (Araneus diadematus)",
+                                            "taxonomy_name_tr": "Haçlı bahçe örümceği",
+                                            "taxonomy_name_la": "Araneus diadematus",
+                                            "id": "7306",
+                                            "url": "https://evrimagaci.org/hacli-bahce-orumcegi-araneus-diadematus-7306"
+                                          },
+                                          {
+                                            "name": "Pardosa örümceği (Pardosa)",
+                                            "taxonomy_name_tr": "Pardosa örümceği",
+                                            "taxonomy_name_la": "Pardosa",
+                                            "id": "7307",
+                                            "url": "https://evrimagaci.org/pardosa-orumcegi-pardosa-7307"
+                                          },
+                                          {
+                                            "name": "Loblu örümcek (Argiope lobata)",
+                                            "taxonomy_name_tr": "Loblu örümcek",
+                                            "taxonomy_name_la": "Argiope lobata",
+                                            "id": "7324",
+                                            "url": "https://evrimagaci.org/loblu-orumcek-argiope-lobata-7324"
+                                          },
+                                          {
+                                            "name": "Dev kurt örümceği (Lycosa praegrandis)",
+                                            "taxonomy_name_tr": "Dev kurt örümceği",
+                                            "taxonomy_name_la": "Lycosa praegrandis",
+                                            "id": "7439",
+                                            "url": "https://evrimagaci.org/dev-kurt-orumcegi-lycosa-praegrandis-7439"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Çok bacaklılar (Myriapoda)",
+                                        "taxonomy_name_tr": "Çok bacaklılar",
+                                        "taxonomy_name_la": "Myriapoda",
+                                        "id": "7624",
+                                        "url": "https://evrimagaci.org/cok-bacaklilar-myriapoda-7624"
+                                      },
+                                      {
+                                        "name": "Otbiçen (Opiliones)",
+                                        "taxonomy_name_tr": "Otbiçen",
+                                        "taxonomy_name_la": "Opiliones",
+                                        "id": "8958",
+                                        "url": "https://evrimagaci.org/otbicen-opiliones-8958"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Su Ayıları (Tardigrada)",
+                                    "taxonomy_name_tr": "Su Ayıları",
+                                    "taxonomy_name_la": "Tardigrada",
+                                    "id": "7282",
+                                    "url": "https://evrimagaci.org/su-ayilari-tardigrada-7282",
+                                    "children": [
+                                      {
+                                        "name": "Gerçek Tardigradlar (Eutardigrada)",
+                                        "taxonomy_name_tr": "Gerçek Tardigradlar",
+                                        "taxonomy_name_la": "Eutardigrada",
+                                        "id": "7562",
+                                        "url": "https://evrimagaci.org/gercek-tardigradlar-eutardigrada-7562",
+                                        "children": [
+                                          {
+                                            "name": "Parachaela (Parachaela)",
+                                            "taxonomy_name_tr": "Parachaela",
+                                            "taxonomy_name_la": "Parachaela",
+                                            "id": "7818",
+                                            "url": "https://evrimagaci.org/parachaela-parachaela-7818",
+                                            "children": [
+                                              {
+                                                "name": "Paramacrobiotus  (Paramacrobiotus sp.)",
+                                                "taxonomy_name_tr": "Paramacrobiotus ",
+                                                "taxonomy_name_la": "Paramacrobiotus sp.",
+                                                "id": "7817",
+                                                "url": "https://evrimagaci.org/paramacrobiotus-paramacrobiotus-sp-7817"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Apochela (Apochela)",
+                                            "taxonomy_name_tr": "Apochela",
+                                            "taxonomy_name_la": "Apochela",
+                                            "id": "7840",
+                                            "url": "https://evrimagaci.org/apochela-apochela-7840",
+                                            "children": [
+                                              {
+                                                "name": "Milnesigiller (Milnesiidae)",
+                                                "taxonomy_name_tr": "Milnesigiller",
+                                                "taxonomy_name_la": "Milnesiidae",
+                                                "id": "8091",
+                                                "url": "https://evrimagaci.org/milnesigiller-milnesiidae-8091"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Farklı Tardigradlar (Heterotardigrada)",
+                                        "taxonomy_name_tr": "Farklı Tardigradlar",
+                                        "taxonomy_name_la": "Heterotardigrada",
+                                        "id": "8009",
+                                        "url": "https://evrimagaci.org/farkli-tardigradlar-heterotardigrada-8009"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Karnı Kıllı Solucanlar (Gastrotricha)",
+                                "taxonomy_name_tr": "Karnı Kıllı Solucanlar",
+                                "taxonomy_name_la": "Gastrotricha",
+                                "id": "8954",
+                                "url": "https://evrimagaci.org/karni-killi-solucanlar-gastrotricha-8954"
+                              },
+                              {
+                                "name": "Düzhayvanlar (Platyzoa)",
+                                "taxonomy_name_tr": "Düzhayvanlar",
+                                "taxonomy_name_la": "Platyzoa",
+                                "id": "11327",
+                                "url": "https://evrimagaci.org/duzhayvanlar-platyzoa-11327",
+                                "children": [
+                                  {
+                                    "name": "Rofozoa (Rouphozoa)",
+                                    "taxonomy_name_tr": "Rofozoa",
+                                    "taxonomy_name_la": "Rouphozoa",
+                                    "id": "11328",
+                                    "url": "https://evrimagaci.org/rofozoa-rouphozoa-11328"
+                                  },
+                                  {
+                                    "name": "Çenetaşıyanlar (Gnathifera)",
+                                    "taxonomy_name_tr": "Çenetaşıyanlar",
+                                    "taxonomy_name_la": "Gnathifera",
+                                    "id": "11329",
+                                    "url": "https://evrimagaci.org/cenetasiyanlar-gnathifera-11329",
+                                    "children": [
+                                      {
+                                        "name": "Tekerlekliler (Rotifera)",
+                                        "taxonomy_name_tr": "Tekerlekliler",
+                                        "taxonomy_name_la": "Rotifera",
+                                        "id": "7302",
+                                        "url": "https://evrimagaci.org/tekerlekliler-rotifera-7302"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Sifonoforlar (Siphonophorae)",
+                            "taxonomy_name_tr": "Sifonoforlar",
+                            "taxonomy_name_la": "Siphonophorae",
+                            "id": "9368",
+                            "url": "https://evrimagaci.org/sifonoforlar-siphonophorae-9368"
+                          },
+                          {
+                            "name": "Knidliler (Cnidaria)",
+                            "taxonomy_name_tr": "Knidliler",
+                            "taxonomy_name_la": "Cnidaria",
+                            "id": "11333",
+                            "url": "https://evrimagaci.org/knidliler-cnidaria-11333",
+                            "children": [
+                              {
+                                "name": "Ölümsüz Denizanası (Turritopsis dohrnii)",
+                                "taxonomy_name_tr": "Ölümsüz Denizanası",
+                                "taxonomy_name_la": "Turritopsis dohrnii",
+                                "id": "3734",
+                                "url": "https://evrimagaci.org/olumsuz-denizanasi-turritopsis-dohrnii-3734"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Bitkiler (Plantae)",
+                "taxonomy_name_tr": "Bitkiler",
+                "taxonomy_name_la": "Plantae",
+                "id": "7247",
+                "url": "https://evrimagaci.org/bitkiler-plantae-7247",
+                "children": [
+                  {
+                    "name": "Fesleğen (Ocimum basilicum)",
+                    "taxonomy_name_tr": "Fesleğen",
+                    "taxonomy_name_la": "Ocimum basilicum",
+                    "id": "4332",
+                    "url": "https://evrimagaci.org/feslegen-ocimum-basilicum-4332"
+                  },
+                  {
+                    "name": "Ankara çiğdemi (Crocus ancyrensis)",
+                    "taxonomy_name_tr": "Ankara çiğdemi",
+                    "taxonomy_name_la": "Crocus ancyrensis",
+                    "id": "7303",
+                    "url": "https://evrimagaci.org/ankara-cigdemi-crocus-ancyrensis-7303"
+                  },
+                  {
+                    "name": "Doğu çınarı (Platanus orientalis)",
+                    "taxonomy_name_tr": "Doğu çınarı",
+                    "taxonomy_name_la": "Platanus orientalis",
+                    "id": "8248",
+                    "url": "https://evrimagaci.org/dogu-cinari-platanus-orientalis-8248"
+                  },
+                  {
+                    "name": "Tüysüz hanım döşeği (Euphorbia prostrata)",
+                    "taxonomy_name_tr": "Tüysüz hanım döşeği",
+                    "taxonomy_name_la": "Euphorbia prostrata",
+                    "id": "9033",
+                    "url": "https://evrimagaci.org/tuysuz-hanim-dosegi-euphorbia-prostrata-9033"
+                  },
+                  {
+                    "name": "Çocukotu (Otanthus maritimus)",
+                    "taxonomy_name_tr": "Çocukotu",
+                    "taxonomy_name_la": "Otanthus maritimus",
+                    "id": "9067",
+                    "url": "https://evrimagaci.org/cocukotu-otanthus-maritimus-9067"
+                  },
+                  {
+                    "name": "Zakkum ağacı (Nerium oleander)",
+                    "taxonomy_name_tr": "Zakkum ağacı",
+                    "taxonomy_name_la": "Nerium oleander",
+                    "id": "9069",
+                    "url": "https://evrimagaci.org/zakkum-agaci-nerium-oleander-9069"
+                  },
+                  {
+                    "name": "Ballıbabagiller (Lamiaceae)",
+                    "taxonomy_name_tr": "Ballıbabagiller",
+                    "taxonomy_name_la": "Lamiaceae",
+                    "id": "9083",
+                    "url": "https://evrimagaci.org/ballibabagiller-lamiaceae-9083",
+                    "children": [
+                      {
+                        "name": "Nane (Mentha)",
+                        "taxonomy_name_tr": "Nane",
+                        "taxonomy_name_la": "Mentha",
+                        "id": "9131",
+                        "url": "https://evrimagaci.org/nane-mentha-9131"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Mersingiller (Myrtaceae)",
+                    "taxonomy_name_tr": "Mersingiller",
+                    "taxonomy_name_la": "Myrtaceae",
+                    "id": "9108",
+                    "url": "https://evrimagaci.org/mersingiller-myrtaceae-9108"
+                  },
+                  {
+                    "name": "Mine çiçeğigiller (Verbenaceae)",
+                    "taxonomy_name_tr": "Mine çiçeğigiller",
+                    "taxonomy_name_la": "Verbenaceae",
+                    "id": "9115",
+                    "url": "https://evrimagaci.org/mine-cicegigiller-verbenaceae-9115",
+                    "children": [
+                      {
+                        "name": "Ağaç mineleri (Lantana)",
+                        "taxonomy_name_tr": "Ağaç mineleri",
+                        "taxonomy_name_la": "Lantana",
+                        "id": "9161",
+                        "url": "https://evrimagaci.org/agac-mineleri-lantana-9161"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Kızılçam (Pinus brutia Ten.)",
+                    "taxonomy_name_tr": "Kızılçam",
+                    "taxonomy_name_la": "Pinus brutia Ten.",
+                    "id": "10829",
+                    "url": "https://evrimagaci.org/kizilcam-pinus-brutia-ten-10829"
+                  },
+                  {
+                    "name": "Sarı Kantaron (Hypericum perforatum)",
+                    "taxonomy_name_tr": "Sarı Kantaron",
+                    "taxonomy_name_la": "Hypericum perforatum",
+                    "id": "11306",
+                    "url": "https://evrimagaci.org/sari-kantaron-hypericum-perforatum-11306"
+                  },
+                  {
+                    "name": "Mayıs Papatyası (Matricaria chamomilla)",
+                    "taxonomy_name_tr": "Mayıs Papatyası",
+                    "taxonomy_name_la": "Matricaria chamomilla",
+                    "id": "11308",
+                    "url": "https://evrimagaci.org/mayis-papatyasi-matricaria-chamomilla-11308"
+                  },
+                  {
+                    "name": "Karanfil (Syzygium aromaticum)",
+                    "taxonomy_name_tr": "Karanfil",
+                    "taxonomy_name_la": "Syzygium aromaticum",
+                    "id": "11521",
+                    "url": "https://evrimagaci.org/karanfil-syzygium-aromaticum-11521"
+                  },
+                  {
+                    "name": "Yeşil Bitkiler (Streptophyta)",
+                    "taxonomy_name_tr": "Yeşil Bitkiler",
+                    "taxonomy_name_la": "Streptophyta",
+                    "id": "11763",
+                    "url": "https://evrimagaci.org/yesil-bitkiler-streptophyta-11763",
+                    "children": [
+                      {
+                        "name": "Karasal Bitkiler (Embryophyta)",
+                        "taxonomy_name_tr": "Karasal Bitkiler",
+                        "taxonomy_name_la": "Embryophyta",
+                        "id": "11832",
+                        "url": "https://evrimagaci.org/karasal-bitkiler-embryophyta-11832"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Yeşil Algler (Chlorophyta)",
+                    "taxonomy_name_tr": "Yeşil Algler",
+                    "taxonomy_name_la": "Chlorophyta",
+                    "id": "11795",
+                    "url": "https://evrimagaci.org/yesil-algler-chlorophyta-11795"
+                  }
+                ]
+              },
+              {
+                "name": "Mantarlar (Fungi)",
+                "taxonomy_name_tr": "Mantarlar",
+                "taxonomy_name_la": "Fungi",
+                "id": "7696",
+                "url": "https://evrimagaci.org/mantarlar-fungi-7696",
+                "children": [
+                  {
+                    "name": "Tütsü kandili mantarı (Xylaria hypoxylon)",
+                    "taxonomy_name_tr": "Tütsü kandili mantarı",
+                    "taxonomy_name_la": "Xylaria hypoxylon",
+                    "id": "7674",
+                    "url": "https://evrimagaci.org/tutsu-kandili-mantari-xylaria-hypoxylon-7674"
+                  },
+                  {
+                    "name": "Kafes mantarı (Clathrus ruber)",
+                    "taxonomy_name_tr": "Kafes mantarı",
+                    "taxonomy_name_la": "Clathrus ruber",
+                    "id": "7679",
+                    "url": "https://evrimagaci.org/kafes-mantari-clathrus-ruber-7679"
+                  },
+                  {
+                    "name": "Ölü adam parmağı (Xylaria longipes)",
+                    "taxonomy_name_tr": "Ölü adam parmağı",
+                    "taxonomy_name_la": "Xylaria longipes",
+                    "id": "7712",
+                    "url": "https://evrimagaci.org/olu-adam-parmagi-xylaria-longipes-7712"
+                  },
+                  {
+                    "name": "Kuru Çürüklük Mantarı (Serpula lacrymans)",
+                    "taxonomy_name_tr": "Kuru Çürüklük Mantarı",
+                    "taxonomy_name_la": "Serpula lacrymans",
+                    "id": "11470",
+                    "url": "https://evrimagaci.org/kuru-curukluk-mantari-serpula-lacrymans-11470"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Arkeler (Archaea)",
+            "taxonomy_name_tr": "Arkeler",
+            "taxonomy_name_la": "Archaea",
+            "id": "7239",
+            "url": "https://evrimagaci.org/arkeler-archaea-7239"
+          }
+        ]
+      },
+      {
+        "name": "Bakteriler (Bacteria)",
+        "taxonomy_name_tr": "Bakteriler",
+        "taxonomy_name_la": "Bacteria",
+        "id": "7229",
+        "url": "https://evrimagaci.org/bakteriler-bacteria-7229",
+        "children": [
+          {
+            "name": "Proteobakteriler (Proteobacteria)",
+            "taxonomy_name_tr": "Proteobakteriler",
+            "taxonomy_name_la": "Proteobacteria",
+            "id": "7304",
+            "url": "https://evrimagaci.org/proteobakteriler-proteobacteria-7304"
+          }
+        ]
+      }
+    ]
+  }
+}
